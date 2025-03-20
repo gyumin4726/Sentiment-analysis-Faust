@@ -39,4 +39,4 @@ for word, count in faust_word_counts.most_common(20):
 
 print("\n📌 메피스토펠레스 대사에서 가장 많이 나온 단어 20개:")
 for word, count in mephi_word_counts.most_common(20):
-    print(f"{word}: {count}")
+    print(f"{word}: {count}") 
