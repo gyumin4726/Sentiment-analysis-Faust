@@ -9,7 +9,6 @@ def get_word_frequencies(text_lines):
     all_words = []
     
     for line in text_lines:
-        line = line.lower()  # 소문자로 변환
         line = line.translate(str.maketrans("", "", string.punctuation))  # 문장 부호 제거
         words = line.split()  # 단어 단위로 분할
         all_words.extend(words)  # 리스트에 추가
@@ -18,8 +17,8 @@ def get_word_frequencies(text_lines):
     return word_counts
 
 # 📌 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
-faust_file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\stop_words_default\faust_cleaned_no_stopwords.txt"
-mephi_file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\stop_words_default\mephi_cleaned_no_stopwords.txt"
+faust_file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\THREE_NLTK_stop_words\faust_dialogues_final.txt"
+mephi_file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\THREE_NLTK_stop_words\mephisto_dialogues_final.txt"
 
 # 파일 읽기
 with open(faust_file_path, "r", encoding="utf-8", errors="replace") as f:

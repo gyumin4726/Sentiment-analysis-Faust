@@ -9,7 +9,7 @@ custom_stopwords = [
     "shall", "would",
     "english", "illustration",
     'me', 'yet', 'then', 'now', 'still', 'hast', 'mr', 'thus',
-    'original', 'form', 'translation', 'even', 'many', 'be', 'well', 'upon', 'here'
+    'original', 'form', 'translation', 'even', 'many', 'be', 'well', 'upon', 'here', '’'
 ]
 
 
@@ -41,22 +41,26 @@ def get_filtered_word_frequencies(text_lines):
     return word_counts
 
 # 📌 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
-faust_file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\stop_words_default\faust_cleaned_no_stopwords.txt"
-mephi_file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\stop_words_default\mephi_cleaned_no_stopwords.txt"
+file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\data\Faust [part 1]. Translated Into English in the Original Metres by Goethe.txt"
 
-with open(faust_file_path, "r", encoding="utf-8") as f:
+with open(file_path, "r", encoding="utf-8") as f:
     faust_text = f.readlines()
 
-with open(mephi_file_path, "r", encoding="utf-8") as f:
-    mephi_text = f.readlines()
+cleaned_no_stopwords = [clean_text(line) for line in faust_text]
 
 # 불용어 제거 + 대사 정제 후 단어 빈도수 계산
 filtered_faust_word_counts = get_filtered_word_frequencies(faust_text)
-filtered_mephi_word_counts = get_filtered_word_frequencies(mephi_text)
 
 # 상위 20개 단어 출력
 print("📌 파우스트 대사에서 가장 많이 나온 단어 20개 (불용어 제거 + 정제 후):")
 print(filtered_faust_word_counts.most_common(20))
 
-print("\n📌 메피스토펠레스 대사에서 가장 많이 나온 단어 20개 (불용어 제거 + 정제 후):")
-print(filtered_mephi_word_counts.most_common(20))
+# 결과 저장
+faust_no_stopwords_path = "faust_cleaned_no_stopwords.txt"
+mephi_no_stopwords_path = "mephi_cleaned_no_stopwords.txt"
+
+with open(faust_no_stopwords_path, "w", encoding="utf-8") as f:
+    f.write("\n".join(cleaned_no_stopwords))
+
+
+print("✅ 불용어 제거 완료! 정리된 파일이 저장되었습니다.")
