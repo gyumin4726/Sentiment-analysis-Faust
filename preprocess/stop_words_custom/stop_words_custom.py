@@ -3,11 +3,12 @@ from collections import Counter
 import string
 
 # 제거할 불필요한 단어 리스트 (고전 영어 + 일반 불용어)
-custom_stopwords = {
-    "thou", "thee", "thy", "’tis", "art", "ye", "hath", "dost", "doth", "shalt", "wherefore", "would", "shall",
-    "one", "it", "us", "me", "must", "may", "let", "now", "like", "see", "be", "then", "still", "come", "good", "time", "yet",
+custom_stopwords = [
+    "thou", "thee", "thy", "’tis", "art", "ye", "hath", "dost", "doth", "shalt", "wherefore",
+    "one", "it", "us", "must", "may", "let",
+    "shall", "would",
     "english", "illustration"
-}
+]
 
 def clean_text(text):
     """
