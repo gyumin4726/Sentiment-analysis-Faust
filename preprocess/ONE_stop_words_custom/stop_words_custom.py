@@ -20,6 +20,8 @@ def clean_text(text):
     3. 불용어 제거
     """
     text = re.sub(r"\[.*?\]|\(.*?\)", "", text)  # [ ]와 ( ) 안의 내용 제거
+    # 유니코드 따옴표 제거
+    text = text.replace("’", "").replace("‘", "").replace("“", "").replace("”", "")
     text = text.lower()  # 소문자로 변환
     text = text.translate(str.maketrans("", "", string.punctuation))  # 문장 부호 제거
     words = text.split()  # 단어 단위로 분할
