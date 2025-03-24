@@ -7,8 +7,11 @@ custom_stopwords = [
     "thou", "thee", "thy", "’tis", "art", "ye", "hath", "dost", "doth", "shalt", "wherefore",
     "one", "it", "us", "must", "may", "let",
     "shall", "would",
-    "english", "illustration"
+    "english", "illustration",
+    'me', 'yet', 'then', 'now', 'still', 'hast', 'mr', 'thus',
+    'original', 'form', 'translation', 'even', 'many', 'be', 'well', 'upon', 'here'
 ]
+
 
 def clean_text(text):
     """
