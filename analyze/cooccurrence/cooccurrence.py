@@ -11,7 +11,7 @@ from frequency.frequency_words import get_word_frequencies
 
 def build_cooccurrence_matrix(text_lines, window_size=2):
     """
-    각 줄마다 등장한 단어들의 co-occurrence를 계산 (window_size는 블록 단위)
+    각 줄마다 등장한 단어들의 co-occurrence를 계산 (window_size는 사용 안함)
     """
     cooccur = defaultdict(Counter)
 
