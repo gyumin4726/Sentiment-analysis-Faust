@@ -69,5 +69,8 @@ def print_top_cooccurrences(word_counts, cooccur_dict, top_n=20, related_n=10, s
         print("-" * 80)
 
 # 예시 실행
-print_top_cooccurrences(faust_word_counts, faust_cooccur, top_n=20, related_n=10, speaker="Faust")
-print_top_cooccurrences(mephi_word_counts, mephi_cooccur, top_n=20, related_n=10, speaker="Mephistopheles")
+print_top_cooccurrences(faust_word_counts, faust_cooccur, top_n=10, related_n=10, speaker="Faust")
+print_top_cooccurrences(mephi_word_counts, mephi_cooccur, top_n=10, related_n=10, speaker="Mephistopheles")
+
+plot_cooccurrence_graph(faust_cooccur, "love")
+plot_cooccurrence_graph(mephi_cooccur, "devil")
