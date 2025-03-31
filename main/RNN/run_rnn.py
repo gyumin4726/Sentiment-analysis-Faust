@@ -5,6 +5,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 import torch
 import torch.nn as nn
 import torch.optim as optim
+import numpy as np
+from gensim.models import Word2Vec
+
 from dataset.load_dataset import get_dataloaders
 from RNN.model import RNN
 from RNN.train import train, evaluate
@@ -21,17 +24,34 @@ max_len = 50
 # ✅ 데이터 로딩
 train_loader, test_loader, vocab, label_names = get_dataloaders(batch_size=batch_size, max_len=max_len)
 
+# ✅ Word2Vec 모델 불러오기
+w2v_model = Word2Vec.load(r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\analyze\word2vec\merged_w2v.model")
+
+# ✅ Word2Vec 임베딩 행렬 생성
+vocab_size = len(vocab)
+pretrained_weights = np.random.normal(scale=0.6, size=(vocab_size, embedding_dim)).astype(np.float32)
+
+for word, idx in vocab.items():
+    if word in w2v_model.wv:
+        pretrained_weights[idx] = w2v_model.wv[word]
+
 # ✅ 모델 초기화
-input_dim = len(vocab)
+input_dim = vocab_size
 output_dim = len(label_names)
 pad_idx = vocab["<pad>"]
 
 model = RNN(input_dim, embedding_dim, hidden_dim, output_dim, pad_idx)
+model.embedding.weight.data.copy_(torch.tensor(pretrained_weights))
+model.embedding.weight.data[pad_idx] = torch.zeros(embedding_dim)  # 패딩 벡터는 0으로
+
+# (선택) Word2Vec 임베딩 고정
+# model.embedding.weight.requires_grad = False
+
 model = model.to(device)
 
+# ✅ 학습 설정
 optimizer = optim.Adam(model.parameters(), lr=1e-3)
-criterion = nn.CrossEntropyLoss()
-criterion = criterion.to(device)
+criterion = nn.CrossEntropyLoss().to(device)
 
 # ✅ 학습 루프
 for epoch in range(num_epochs):

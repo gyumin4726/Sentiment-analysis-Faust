@@ -15,24 +15,29 @@ class RNN(nn.Module):
             batch_first=False  # 유지: permute 방식
         )
 
-        self.norm = nn.LayerNorm(hidden_dim * 2)
+        # 💡 RNN 출력 + 평균 임베딩 → hidden_dim*2 + embedding_dim
+        self.norm = nn.LayerNorm(hidden_dim * 2 + embedding_dim * 2)
         self.fc_layers = nn.Sequential(
             nn.Dropout(0.3),
             nn.ReLU(),
-            nn.Linear(hidden_dim * 2, output_dim)
+            nn.Linear(hidden_dim * 2 + embedding_dim * 2, output_dim)
         )
+
 
     def forward(self, text):
         # text: [batch_size, sent_len] → RNN: [sent_len, batch_size]
         text = text.permute(1, 0)
-        embedded = self.embedding(text)  # [sent_len, batch_size, emb_dim]
-        output, hidden = self.rnn(embedded)
+        embedded = self.embedding(text)  # [seq_len, batch, emb_dim]
 
-        # 양방향 → 마지막 layer의 forward & backward hidden 결합
-        hidden_cat = torch.cat((hidden[-2], hidden[-1]), dim=1)  # [batch_size, hidden_dim * 2]
-        # output: [seq_len, batch, hidden*2]
-        context = torch.mean(output, dim=0)  # 평균 pooling
-        normed = self.norm(context)
+        output, hidden = self.rnn(embedded)  # output: [seq_len, batch, hidden*2]
+        hidden_cat = torch.cat((hidden[-2], hidden[-1]), dim=1)  # [batch, hidden_dim*2]
+
+        # 💡 평균 임베딩: seq_len 차원 평균
+        avg_emb = embedded.mean(dim=0)  # [batch, emb_dim]
+        max_emb, _ = embedded.max(dim=0)
+        combined = torch.cat((hidden_cat, avg_emb, max_emb), dim=1)
+
+        # 🔗 결합: RNN 출력 + 평균 임베딩
+        combined = torch.cat((hidden_cat, avg_emb, max_emb), dim=1)  # [batch, hidden_dim*2 + emb_dim*2]
+        normed = self.norm(combined)
         return self.fc_layers(normed)
-
- 
