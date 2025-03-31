@@ -48,7 +48,7 @@ if __name__ == "__main__":
     model = model.to(device)
 
     # 예측할 문장
-    sentence = "i want to kill you"
+    sentence = "confess forth wander steps slight obstacle controlled— wizardsfoot threshold made"
 
     # 예측
     label, confidence, probs = predict_sentiment(sentence, model, vocab, label_names, max_len=max_len, device=device)

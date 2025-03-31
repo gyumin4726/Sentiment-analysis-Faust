@@ -43,7 +43,7 @@ def get_filtered_word_frequencies(text_lines):
     return word_counts
 
 # 📌 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
-file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\data\Faust [part 1]. Translated Into English in the Original Metres by Goethe.txt"
+file_path = "../../data/Faust [part 1]. Translated Into English in the Original Metres by Goethe.txt"
 
 with open(file_path, "r", encoding="utf-8") as f:
     faust_text = f.readlines()

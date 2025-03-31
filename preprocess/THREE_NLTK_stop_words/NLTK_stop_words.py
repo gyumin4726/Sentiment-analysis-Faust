@@ -19,9 +19,10 @@ def remove_stopwords(text):
 
 # 4. 처리할 파일 리스트 [(입력 경로, 출력 경로)]
 file_pairs = [
-    (r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\TWO_extract_lines\faust_dialogues.txt", "faust_dialogues_final.txt"),
-    (r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\TWO_extract_lines\mephisto_dialogues.txt", "mephisto_dialogues_final.txt")
+    ("../TWO_extract_lines/faust_dialogues.txt", "faust_dialogues_final.txt"),
+    ("../TWO_extract_lines/mephisto_dialogues.txt", "mephisto_dialogues_final.txt")
 ]
+
 
 # 5. 각각 처리
 for input_path, output_path in file_pairs:

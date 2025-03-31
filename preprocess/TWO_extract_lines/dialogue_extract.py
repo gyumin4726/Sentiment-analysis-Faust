@@ -1,6 +1,6 @@
 import re
 
-file_path = r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\ONE_stop_words_custom\faust_cleaned_no_stopwords.txt"
+file_path = "../ONE_stop_words_custom/faust_cleaned_no_stopwords.txt"
 
 # 저장할 대사 리스트 초기화
 faust_dialogues = []

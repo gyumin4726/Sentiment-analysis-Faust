@@ -23,9 +23,9 @@ def build_cooccurrence_matrix(text_lines, window_size=2):
     return cooccur
 
 # 파일 열기
-with open(r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\THREE_NLTK_stop_words\faust_dialogues_final.txt", "r", encoding="utf-8") as f:
+with open("../../preprocess/THREE_NLTK_stop_words/faust_dialogues_final.txt", "r", encoding="utf-8") as f:
     faust_lines = f.readlines()
-with open(r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\preprocess\THREE_NLTK_stop_words\mephisto_dialogues_final.txt", "r", encoding="utf-8") as f:
+with open("../../preprocess/THREE_NLTK_stop_words/mephisto_dialogues_final.txt", "r", encoding="utf-8") as f:
     mephi_lines = f.readlines()
 
 # Co-occurrence 분석 수행

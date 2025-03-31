@@ -25,7 +25,7 @@ max_len = 50
 train_loader, test_loader, vocab, label_names = get_dataloaders(batch_size=batch_size, max_len=max_len)
 
 # ✅ Word2Vec 모델 불러오기
-w2v_model = Word2Vec.load(r"C:\Users\박규민\OneDrive - KookminUNIV\바탕 화면\빅데이터 최신기술\Sentiment-analysis-Faust\analyze\word2vec\merged_w2v.model")
+w2v_model = Word2Vec.load("../../analyze/word2vec/merged_w2v.model")
 
 # ✅ Word2Vec 임베딩 행렬 생성
 vocab_size = len(vocab)
