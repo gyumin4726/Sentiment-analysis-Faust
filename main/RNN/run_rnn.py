@@ -17,7 +17,7 @@ from RNN.predict import predict_sentiment
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 embedding_dim = 100
 hidden_dim = 128
-num_epochs = 5
+num_epochs = 20
 batch_size = 64
 max_len = 50
 
