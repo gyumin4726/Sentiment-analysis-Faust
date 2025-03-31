@@ -2,9 +2,9 @@ from gensim.models import Word2Vec
 import numpy as np
 
 # 파일 열기
-with open("../../preprocess/THREE_NLTK_stop_words/faust_dialogues_final.txt", "r", encoding="utf-8") as f:
+with open("../../preprocess/TWO_extract_lines/faust_dialogues.txt", "r", encoding="utf-8") as f:
     faust_lines = f.readlines()
-with open("../../preprocess/THREE_NLTK_stop_words/mephisto_dialogues_final.txt", "r", encoding="utf-8") as f:
+with open("../../preprocess/TWO_extract_lines/mephisto_dialogues.txt", "r", encoding="utf-8") as f:
     mephi_lines = f.readlines()
 
 # ✅ 토큰화된 문장 리스트 (불용어 제거 + 전처리된 문장)

@@ -4,26 +4,18 @@ import string
 
 # 제거할 불필요한 단어 리스트 (고전 영어 + 일반 불용어)
 custom_stopwords = [
-    "thou", "thee", "thy", "’tis", "art", "ye", "hath", "dost", "doth", "shalt", "wherefore",
-    "one", "it", "us", "must", "may", "let",
-    "shall", "would",
-    "english", "illustration",
-    'me', 'yet', 'then', 'now', 'still', 'hast', 'mr', 'thus',
-    'original', 'form', 'translation', 'even', 'many', 'be', 'well', 'upon', 'here', '’'
-]
+    "illustration"
+    ]
 
 
 def clean_text(text):
     """
     1. [ ] 및 ( ) 안에 있는 내용을 제거
-    2. 문장 부호 제거
+    2. 소문자로 변환
     3. 불용어 제거
     """
     text = re.sub(r"\[.*?\]|\(.*?\)", "", text)  # [ ]와 ( ) 안의 내용 제거
-    # 유니코드 따옴표 제거
-    text = text.replace("’", "").replace("‘", "").replace("“", "").replace("”", "")
     text = text.lower()  # 소문자로 변환
-    text = text.translate(str.maketrans("", "", string.punctuation))  # 문장 부호 제거
     words = text.split()  # 단어 단위로 분할
     filtered_words = [word for word in words if word not in custom_stopwords]  # 불용어 제거
     return " ".join(filtered_words)  # 다시 문장으로 변환

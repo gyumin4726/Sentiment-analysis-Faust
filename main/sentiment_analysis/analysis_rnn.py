@@ -33,8 +33,8 @@ model = model.to(device)
 model.eval()
 
 # ✅ 대사 파일 경로
-faust_path = "../../preprocess/THREE_NLTK_stop_words/faust_dialogues_final.txt"
-#mephi_path = "../../preprocess/THREE_NLTK_stop_words/mephisto_dialogues_final.txt"
+faust_path = "../../preprocess/TWO_extract_lines/faust_dialogues.txt"
+#mephi_path = "../../preprocess/TWO_extract_lines/mephisto_dialogues.txt"
 
 # ✅ 텍스트 로드
 with open(faust_path, "r", encoding="utf-8") as f:
