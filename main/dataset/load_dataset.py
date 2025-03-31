@@ -35,11 +35,11 @@ class EmotionDataset(Dataset):
 # ------------------- Data Loader Function -------------------
 def get_dataloaders(batch_size=64, max_len=50):
     # ✅ 전체 감정 포함
-    dataset = load_dataset("go_emotions", split="train")
-    label_names = dataset.features['labels'].feature.names
+    dataset = load_dataset("dair-ai/emotion", split="train")
+    label_names = dataset.features['label'].names
 
     texts = [item['text'] for item in dataset]
-    labels = [item['labels'][0] if item['labels'] else 0 for item in dataset]
+    labels = [item['label'] for item in dataset]
 
     tokenized = [tokenize(t) for t in texts]
     vocab = build_vocab(tokenized)
@@ -48,9 +48,9 @@ def get_dataloaders(batch_size=64, max_len=50):
     train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 
     # ✅ 테스트셋도 동일하게 처리
-    test_set = load_dataset("go_emotions", split="test")
+    test_set = load_dataset("dair-ai/emotion", split="test")
     test_texts = [item['text'] for item in test_set]
-    test_labels = [item['labels'][0] if item['labels'] else 0 for item in test_set]
+    test_labels = [item['label'] for item in test_set]
     tokenized_test = [tokenize(t) for t in test_texts]
 
     test_dataset = EmotionDataset(tokenized_test, test_labels, vocab, max_len)
