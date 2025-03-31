@@ -17,8 +17,8 @@ def get_word_frequencies(text_lines):
     return word_counts
 
 # 📌 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
-faust_file_path = "../../preprocess/TWO_extract_lines/faust_dialogues.txt.txt"
-mephi_file_path = "../../preprocess/TWO_extract_lines/mephisto_dialogues.txt.txt"
+faust_file_path = "../../preprocess/TWO_extract_lines/faust_dialogues.txt"
+mephi_file_path = "../../preprocess/TWO_extract_lines/mephisto_dialogues.txt"
 
 
 # 파일 읽기

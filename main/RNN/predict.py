@@ -48,7 +48,7 @@ if __name__ == "__main__":
     model = model.to(device)
 
     # 예측할 문장
-    sentence = "confess forth wander steps slight obstacle controlled— wizardsfoot threshold made"
+    sentence = "demand’st thou, pedant, too, a document? hast never known a man, nor proved his word’s intent? is’t not enough, that what i speak to-day shall stand, with all my future days agreeing? in all its tides sweeps not the world away, and shall a promise bind my being? yet this delusion in our hearts we bear: who would himself therefrom deliver? blest he, whose bosom truth makes pure and fair! no sacrifice shall he repent of ever. nathless a parchment, writ and stamped with care, a spectre is, which all to shun endeavor. the word, alas! dies even in the pen, and wax and leather keep the lordship then. what wilt from me, base spirit, say?— brass, marble, parchment, paper, clay? the terms with graver, quill, or chisel, stated? i freely leave the choice to thee."
 
     # 예측
     label, confidence, probs = predict_sentiment(sentence, model, vocab, label_names, max_len=max_len, device=device)
