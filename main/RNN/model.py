@@ -35,7 +35,6 @@ class RNN(nn.Module):
         # 💡 평균 임베딩: seq_len 차원 평균
         avg_emb = embedded.mean(dim=0)  # [batch, emb_dim]
         max_emb, _ = embedded.max(dim=0)
-        combined = torch.cat((hidden_cat, avg_emb, max_emb), dim=1)
 
         # 🔗 결합: RNN 출력 + 평균 임베딩
         combined = torch.cat((hidden_cat, avg_emb, max_emb), dim=1)  # [batch, hidden_dim*2 + emb_dim*2]

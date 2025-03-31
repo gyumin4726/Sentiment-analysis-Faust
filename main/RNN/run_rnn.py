@@ -10,7 +10,7 @@ from gensim.models import Word2Vec
 
 from dataset.load_dataset import get_dataloaders
 from RNN.model import RNN
-from RNN.train import train, evaluate
+from dataset.train import train, evaluate
 from RNN.predict import predict_sentiment
 
 # ✅ 설정값
@@ -43,9 +43,6 @@ pad_idx = vocab["<pad>"]
 model = RNN(input_dim, embedding_dim, hidden_dim, output_dim, pad_idx)
 model.embedding.weight.data.copy_(torch.tensor(pretrained_weights))
 model.embedding.weight.data[pad_idx] = torch.zeros(embedding_dim)  # 패딩 벡터는 0으로
-
-# (선택) Word2Vec 임베딩 고정
-# model.embedding.weight.requires_grad = False
 
 model = model.to(device)
 
