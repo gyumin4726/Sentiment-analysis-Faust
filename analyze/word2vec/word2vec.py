@@ -7,13 +7,13 @@ with open("../../preprocess/TWO_extract_lines/faust_dialogues.txt", "r", encodin
 with open("../../preprocess/TWO_extract_lines/mephisto_dialogues.txt", "r", encoding="utf-8") as f:
     mephi_lines = f.readlines()
 
-# ✅ 토큰화된 문장 리스트 (불용어 제거 + 전처리된 문장)
+# 토큰화된 문장 리스트 (불용어 제거 + 전처리된 문장)
 tokenized_lines_faust = [line.strip().split() for line in faust_lines if line.strip()]
-# ✅ 토큰화된 문장 리스트 (불용어 제거 + 전처리된 문장)
+# 토큰화된 문장 리스트 (불용어 제거 + 전처리된 문장)
 tokenized_lines_mephi = [line.strip().split() for line in mephi_lines if line.strip()]
 
 
-# ✅ Word2Vec 학습
+# Word2Vec 학습
 model1 = Word2Vec(
     sentences=tokenized_lines_faust,
     vector_size=100,
@@ -22,7 +22,7 @@ model1 = Word2Vec(
     workers=4
 )
 
-# ✅ Word2Vec 학습
+# Word2Vec 학습
 model2 = Word2Vec(
     sentences=tokenized_lines_mephi,
     vector_size=100,
@@ -31,12 +31,12 @@ model2 = Word2Vec(
     workers=4
 )
 
-# ✅ 연관 단어 출력
+# 연관 단어 출력
 print("🔍 '파우스트의 love'와 유사한 단어:")
 for word, score in model1.wv.most_similar('love', topn=10):
     print(f"{word:10} → {score:.4f}")
 
-# ✅ 연관 단어 출력
+# 연관 단어 출력
 print("🔍 '메피스토펠레스의 devil'과 유사한 단어:")
 for word, score in model2.wv.most_similar('devil', topn=10):
     print(f"{word:10} → {score:.4f}")
@@ -69,4 +69,4 @@ merged_model.wv.vectors = np.array(vectors)
 
 # 6. 저장
 merged_model.save("../word2vec/merged_w2v.model")
-print("✅ 통합 Word2Vec 모델 저장 완료: merged_w2v.model")
+print("통합 Word2Vec 모델 저장 완료: merged_w2v.model")

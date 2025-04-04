@@ -16,7 +16,7 @@ from dataset.train import train, evaluate
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 embedding_dim = 100
 hidden_dim = 128
-num_epochs = 20
+num_epochs = 10
 batch_size = 64
 max_len = 50
 
