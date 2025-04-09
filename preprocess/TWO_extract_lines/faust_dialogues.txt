@@ -1,440 +1,675 @@
-i’ve studied now philosophy and jurisprudence, medicine,— and even, alas! theology,— from end to end, with labor keen; and here, poor fool! with all my lore i stand, no wiser than before: i’m magister—yea, doctor—hight, and straight or cross-wise, wrong or right, these ten years long, with many woes, i’ve led my scholars by the nose,— and see, that nothing can be known! _that_ knowledge cuts me to the bone. i’m cleverer, true, than those fops of teachers, doctors and magisters, scribes and preachers; neither scruples nor doubts come now to smite me, nor hell nor devil can longer affright me.  for this, all pleasure am i foregoing; i do not pretend to aught worth knowing, i do not pretend i could be a teacher to help or convert a fellow-creature. then, too, i’ve neither lands nor gold, nor the world’s least pomp or honor hold— no dog would endure such a curst existence! wherefore, from magic i seek assistance, that many a secret perchance i reach through spirit-power and spirit-speech, and thus the bitter task forego of saying the things i do not know,— that i may detect the inmost force which binds the world, and guides its course; its germs, productive powers explore, and rummage in empty words no more!  o full and splendid moon, whom i have, from this desk, seen climb the sky so many a midnight,—would thy glow for the last time beheld my woe! ever thine eye, most mournful friend, o’er books and papers saw me bend; but would that i, on mountains grand, amid thy blessed light could stand, with spirits through mountain-caverns hover, float in thy twilight the meadows over, and, freed from the fumes of lore that swathe me, to health in thy dewy fountains bathe me!  ah, me! this dungeon still i see. this drear, accursed masonry, where even the welcome daylight strains but duskly through the painted panes. hemmed in by many a toppling heap of books worm-eaten, gray with dust, which to the vaulted ceiling creep, against the smoky paper thrust,— with glasses, boxes, round me stacked, and instruments together hurled, ancestral lumber, stuffed and packed— such is my world: and what a world!  and do i ask, wherefore my heart falters, oppressed with unknown needs? why some inexplicable smart all movement of my life impedes? alas! in living nature’s stead, where god his human creature set, in smoke and mould the fleshless dead and bones of beasts surround me yet!  fly! up, and seek the broad, free land! and this one book of mystery from nostradamus’ very hand, is’t not sufficient company? when i the starry courses know, and nature’s wise instruction seek, with light of power my soul shall glow, as when to spirits spirits speak. tis vain, this empty brooding here, though guessed the holy symbols be: ye, spirits, come—ye hover near— oh, if you hear me, answer me!    ha! what a sudden rapture leaps from this i view, through all my senses swiftly flowing! i feel a youthful, holy, vital bliss in every vein and fibre newly glowing. was it a god, who traced this sign, with calm across my tumult stealing, my troubled heart to joy unsealing, with impulse, mystic and divine, the powers of nature here, around my path, revealing? am i a god?—so clear mine eyes! in these pure features i behold creative nature to my soul unfold. what says the sage, now first i recognize: “the spirit-world no closures fasten; thy sense is shut, thy heart is dead: disciple, up! untiring, hasten to bathe thy breast in morning-red!”    how each the whole its substance gives, each in the other works and lives! like heavenly forces rising and descending, their golden urns reciprocally lending, with wings that winnow blessing from heaven through earth i see them pressing, filling the all with harmony unceasing! how grand a show! but, ah! a show alone. thee, boundless nature, how make thee my own? where you, ye beasts? founts of all being, shining, whereon hang heaven’s and earth’s desire, whereto our withered hearts aspire,— ye flow, ye feed: and am i vainly pining?  (_he turns the leaves impatiently, and perceives the sign of the earth-spirit_.)  how otherwise upon me works this sign! thou, spirit of the earth, art nearer: even now my powers are loftier, clearer; i glow, as drunk with new-made wine: new strength and heart to meet the world incite me, the woe of earth, the bliss of earth, invite me, and though the shock of storms may smite me, no crash of shipwreck shall have power to fright me! clouds gather over me— the moon conceals her light— the lamp’s extinguished!— mists rise,—red, angry rays are darting around my head!—there falls a horror from the vaulted roof, and seizes me! i feel thy presence, spirit i invoke! reveal thyself! ha! in my heart what rending stroke!
-
+i’ve studied now philosophy and jurisprudence, medicine,— and even, alas!
+theology,— from end to end, with labor keen; and here, poor fool!
+with all my lore i stand, no wiser than before: i’m magister—yea, doctor—hight, and straight or cross-wise, wrong or right, these ten years long, with many woes, i’ve led my scholars by the nose,— and see, that nothing can be known!
+_that_ knowledge cuts me to the bone.
+i’m cleverer, true, than those fops of teachers, doctors and magisters, scribes and preachers; neither scruples nor doubts come now to smite me, nor hell nor devil can longer affright me.
+for this, all pleasure am i foregoing; i do not pretend to aught worth knowing, i do not pretend i could be a teacher to help or convert a fellow-creature.
+then, too, i’ve neither lands nor gold, nor the world’s least pomp or honor hold— no dog would endure such a curst existence!
+wherefore, from magic i seek assistance, that many a secret perchance i reach through spirit-power and spirit-speech, and thus the bitter task forego of saying the things i do not know,— that i may detect the inmost force which binds the world, and guides its course; its germs, productive powers explore, and rummage in empty words no more!
+o full and splendid moon, whom i have, from this desk, seen climb the sky so many a midnight,—would thy glow for the last time beheld my woe!
+ever thine eye, most mournful friend, o’er books and papers saw me bend; but would that i, on mountains grand, amid thy blessed light could stand, with spirits through mountain-caverns hover, float in thy twilight the meadows over, and, freed from the fumes of lore that swathe me, to health in thy dewy fountains bathe me!
+ah, me!
+this dungeon still i see.
+this drear, accursed masonry, where even the welcome daylight strains but duskly through the painted panes.
+hemmed in by many a toppling heap of books worm-eaten, gray with dust, which to the vaulted ceiling creep, against the smoky paper thrust,— with glasses, boxes, round me stacked, and instruments together hurled, ancestral lumber, stuffed and packed— such is my world: and what a world!
+and do i ask, wherefore my heart falters, oppressed with unknown needs?
+why some inexplicable smart all movement of my life impedes?
+alas!
+in living nature’s stead, where god his human creature set, in smoke and mould the fleshless dead and bones of beasts surround me yet!
+fly!
+up, and seek the broad, free land!
+and this one book of mystery from nostradamus’ very hand, is’t not sufficient company?
+when i the starry courses know, and nature’s wise instruction seek, with light of power my soul shall glow, as when to spirits spirits speak.
+tis vain, this empty brooding here, though guessed the holy symbols be: ye, spirits, come—ye hover near— oh, if you hear me, answer me!
+ha!
+what a sudden rapture leaps from this i view, through all my senses swiftly flowing!
+i feel a youthful, holy, vital bliss in every vein and fibre newly glowing.
+was it a god, who traced this sign, with calm across my tumult stealing, my troubled heart to joy unsealing, with impulse, mystic and divine, the powers of nature here, around my path, revealing?
+am i a god?—so clear mine eyes!
+in these pure features i behold creative nature to my soul unfold.
+what says the sage, now first i recognize: “the spirit-world no closures fasten; thy sense is shut, thy heart is dead: disciple, up!
+untiring, hasten to bathe thy breast in morning-red!”    how each the whole its substance gives, each in the other works and lives!
+like heavenly forces rising and descending, their golden urns reciprocally lending, with wings that winnow blessing from heaven through earth i see them pressing, filling the all with harmony unceasing!
+how grand a show!
+but, ah!
+a show alone.
+thee, boundless nature, how make thee my own?
+where you, ye beasts?
+founts of all being, shining, whereon hang heaven’s and earth’s desire, whereto our withered hearts aspire,— ye flow, ye feed: and am i vainly pining?
+(_he turns the leaves impatiently, and perceives the sign of the earth-spirit_.)  how otherwise upon me works this sign!
+thou, spirit of the earth, art nearer: even now my powers are loftier, clearer; i glow, as drunk with new-made wine: new strength and heart to meet the world incite me, the woe of earth, the bliss of earth, invite me, and though the shock of storms may smite me, no crash of shipwreck shall have power to fright me!
+clouds gather over me— the moon conceals her light— the lamp’s extinguished!— mists rise,—red, angry rays are darting around my head!—there falls a horror from the vaulted roof, and seizes me!
+i feel thy presence, spirit i invoke!
+reveal thyself!
+ha!
+in my heart what rending stroke!
 terrible to see!
-
-woe! i endure not thee!
-
-thee, form of flame, shall i then fear? yes, i am faust: i am thy peer!
-
+woe!
+i endure not thee!
+thee, form of flame, shall i then fear?
+yes, i am faust: i am thy peer!
 thou, who around the wide world wendest, thou busy spirit, how near i feel to thee!
-
-not thee! whom then? i, image of the godhead! not even like thee!  .  o death!—i know it—’tis my famulus! my fairest luck finds no fruition: in all the fullness of my vision the soulless sneak disturbs me thus!  (_enter_ wagner_, in dressing-gown and night-cap, a lamp in his hand. _faust_ turns impatiently_.)
-
+not thee!
+whom then?
+i, image of the godhead!
+not even like thee!
+.
+o death!—i know it—’tis my famulus!
+my fairest luck finds no fruition: in all the fullness of my vision the soulless sneak disturbs me thus!
+(_enter_ wagner_, in dressing-gown and night-cap, a lamp in his hand.
+_faust_ turns impatiently_.)
 yes, when the priest comedian is by nature, as haply now and then the case may be.
-
-you’ll ne’er attain it, save you know the feeling, save from the soul it rises clear, serene in primal strength, compelling the hearts and minds of all who hear. you sit forever gluing, patching; you cook the scraps from others’ fare; and from your heap of ashes hatching a starveling flame, ye blow it bare! take children’s, monkeys’ gaze admiring, if such your taste, and be content; but ne’er from heart to heart you’ll speak inspiring, save your own heart is eloquent!
-
-seek thou the honest recompense! beware, a tinkling fool to be! with little art, clear wit and sense suggest their own delivery; and if thou’rt moved to speak in earnest, what need, that after words thou yearnest? yes, your discourses, with their glittering show, where ye for men twist shredded thought like paper, are unrefreshing as the winds that blow the rustling leaves through chill autumnal vapor!
-
-is parchment, then, the holy fount before thee, a draught wherefrom thy thirst forever slakes? no true refreshment can restore thee, save what from thine own soul spontaneous breaks.
-
-o yes, up to the stars at last! listen, my friend: the ages that are past are now a book with seven seals protected: what you the spirit of the ages call is nothing but the spirit of you all, wherein the ages are reflected. so, oftentimes, you miserably mar it! at the first glance who sees it runs away. an offal-barrel and a lumber-garret, or, at the best, a punch-and-judy play, with maxims most pragmatical and hitting, as in the mouths of puppets are befitting!
-
-yes, of the kind which men attain! who dares the child’s true name in public mention? the few, who thereof something really learned, unwisely frank, with hearts that spurned concealing, and to the mob laid bare each thought and feeling, have evermore been crucified and burned. i pray you, friend, ’tis now the dead of night; our converse here must be suspended.
-
-that brain, alone, not loses hope, whose choice is to stick in shallow trash forevermore,— which digs with eager hand for buried ore, and, when it finds an angle-worm, rejoices!  dare such a human voice disturb the flow, around me here, of spirit-presence fullest? and yet, this once my thanks i owe to thee, of all earth’s sons the poorest, dullest! for thou hast torn me from that desperate state which threatened soon to overwhelm my senses: the apparition was so giant-great, it dwarfed and withered all my soul’s pretences!  i, image of the godhead, who began— deeming eternal truth secure in nearness— to sun myself in heavenly light and clearness, and laid aside the earthly man;— i, more than cherub, whose free force had planned to flow through nature’s veins in glad pulsation, to reach beyond, enjoying in creation the life of gods, behold my expiation! a thunder-word hath swept me from my stand.27  with thee i dare not venture to compare me. though i possessed the power to draw thee near me, the power to keep thee was denied my hand. when that ecstatic moment held me, i felt myself so small, so great; but thou hast ruthlessly repelled me back upon man’s uncertain fate. what shall i shun? whose guidance borrow? shall i accept that stress and strife? ah! every deed of ours, no less than every sorrow, impedes the onward march of life.  some alien substance more and more is cleaving to all the mind conceives of grand and fair; when this world’s good is won by our achieving, the better, then, is named a cheat and snare. the fine emotions, whence our lives we mould, lie in the earthly tumult dumb and cold. if hopeful fancy once, in daring flight, her longings to the infinite expanded, yet now a narrow space contents her quite, since time’s wild wave so many a fortune stranded. care at the bottom of the heart is lurking: her secret pangs in silence working, she, restless, rocks herself, disturbing joy and rest: in newer masks her face is ever drest, by turns as house and land, as wife and child, presented,— as water, fire, as poison, steel: we dread the blows we never feel, and what we never lose is yet by us lamented!  i am not like the gods! that truth is felt too deep: the worm am i, that in the dust doth creep,— that, while in dust it lives and seeks its bread, is crushed and buried by the wanderer’s tread.  is not this dust, these walls within them hold, the hundred shelves, which cramp and chain me, the frippery, the trinkets thousandfold, that in this mothy den restrain me? here shall i find the help i need? shall here a thousand volumes teach me only that men, self-tortured, everywhere must bleed,— and here and there one happy man sits lonely?28 what mean’st thou by that grin, thou hollow skull, save that thy brain, like mine, a cloudy mirror, sought once the shining day, and then, in twilight dull,29 thirsting for truth, went wretchedly to error? ye instruments, forsooth, but jeer at me with wheel and cog, and shapes uncouth of wonder; i found the portal, you the keys should be; your wards are deftly wrought, but drive no bolts asunder! mysterious even in open day, nature retains her veil, despite our clamors: that which she doth not willingly display cannot be wrenched from her with levers, screws, and hammers. ye ancient tools, whose use i never knew, here, since my father used ye, still ye moulder: thou, ancient scroll, hast worn thy smoky hue since at this desk the dim lamp wont to smoulder. ’t were better far, had i my little idly spent, than now to sweat beneath its burden, i confess it! what from your fathers’ heritage is lent, earn it anew, to really possess it!30 what serves not, is a sore impediment: the moment’s need creates the thing to serve and bless it!  yet, wherefore tums my gaze to yonder point so lightly? is yonder flask a magnet for mine eyes? whence, all around me, glows the air so brightly, as when in woods at night the mellow moonbeam lies?  i hail thee, wondrous, rarest vial! i take thee down devoutly, for the trial: man’s art and wit i venerate in thee. thou summary of gentle slumber-juices, essence of deadly finest powers and uses, unto thy master show thy favor free! i see thee, and the stings of pain diminish; i grasp thee, and my struggles slowly finish: my spirit’s flood-tide ebbeth more and more. out on the open ocean speeds my dreaming; the glassy flood before my feet is gleaming, a new day beckons to a newer shore!  a fiery chariot, borne on buoyant pinions, sweeps near me now! i soon shall ready be to pierce the ether’s high, unknown dominions, to reach new spheres of pure activity! this godlike rapture, this supreme existence, do i, but now a worm, deserve to track? yes, resolute to reach some brighter distance, on earth’s fair sun i turn my back 31 yes, let me dare those gates to fling asunder, which every man would fain go slinking by! ’t is time, through deeds this word of truth to thunder: that with the height of gods man’s dignity may vie! nor from that gloomy gulf to shrink affrighted, where fancy doth herself to self-born pangs compel,— to struggle toward that pass benighted, around whose narrow mouth flame all the fires of hell,— to take this step with cheerful resolution, though nothingness should be the certain, swift conclusion! and now come down, thou cup of crystal clearest! fresh from thine ancient cover thou appearest, so many years forgotten to my thought! thou shon’st at old ancestral banquets cheery, the solemn guests thou madest merry, when one thy wassail to the other brought. the rich and skilful figures o’er thee wrought, the drinker’s duty, rhyme-wise to explain them, or in one breath below the mark to drain them, from many a night of youth my memory caught. now to a neighbor shall i pass thee never, nor on thy curious art to test my wit endeavor, here is a juice whence sleep is swiftly born. it fills with browner flood thy crystal hollow; i chose, prepared it: thus i follow,— with all my soul the final drink i swallow, a solemn festal cup, a greeting to the morn! [he sets the goblet to his mouth.    chorus of angels.32 christ is arisen! joy to the mortal one, whom the unmerited, clinging, inherited needs did imprison.   faust. what hollow humming, what a sharp, clear stroke, drives from my lip the goblet’s, at their meeting? announce the booming bells already woke the first glad hour of easter’s festal greeting? ye choirs, have ye begun the sweet, consoling chant, which, through the night of death, the angels ministrant sang, god’s new covenant repeating?
-
-why, here in dust, entice me with your spell, ye gentle, powerful sounds of heaven? peal rather there, where tender natures dwell. your messages i hear, but faith has not been given; the dearest child of faith is miracle. i venture not to soar to yonder regions whence the glad tidings hither float; and yet, from childhood up familiar with the note, to life it now renews the old allegiance. once heavenly love sent down a burning kiss upon my brow, in sabbath silence holy; and, filled with mystic presage, chimed the church-bell slowly, and prayer dissolved me in a fervent bliss. a sweet, uncomprehended yearning drove forth my feet through woods and meadows free, and while a thousand tears were burning, i felt a world arise for me. these chants, to youth and all its sports appealing, proclaimed the spring’s rejoicing holiday; and memory holds me now, with childish feeling, back from the last, the solemn way. sound on, ye hymns of heaven, so sweet and mild! my tears gush forth: the earth takes back her child!
-
-released from ice are brook and river by the quickening glance of the gracious spring; the colors of hope to the valley cling, and weak old winter himself must shiver, withdrawn to the mountains, a crownless king: whence, ever retreating, he sends again impotent showers of sleet that darkle in belts across the green o’ the plain. but the sun will permit no white to sparkle; everywhere form in development moveth; he will brighten the world with the tints he loveth, and, lacking blossoms, blue, yellow, and red, he takes these gaudy people instead. turn thee about, and from this height back on the town direct thy sight. out of the hollow, gloomy gate, the motley throngs come forth elate: each will the joy of the sunshine hoard, to honor the day of the risen lord! they feel, themselves, their resurrection: from the low, dark rooms, scarce habitable; from the bonds of work, from trade’s restriction; from the pressing weight of roof and gable; from the narrow, crushing streets and alleys; from the churches’ solemn and reverend night, all come forth to the cheerful light. how lively, see! the multitude sallies, scattering through gardens and fields remote, while over the river, that broadly dallies, dances so many a festive boat; and overladen, nigh to sinking, the last full wherry takes the stream. yonder afar, from the hill-paths blinking, their clothes are colors that softly gleam. i hear the noise of the village, even; here is the people’s proper heaven; here high and low contented see! here i am man,—dare man to be!
-
+you’ll ne’er attain it, save you know the feeling, save from the soul it rises clear, serene in primal strength, compelling the hearts and minds of all who hear.
+you sit forever gluing, patching; you cook the scraps from others’ fare; and from your heap of ashes hatching a starveling flame, ye blow it bare!
+take children’s, monkeys’ gaze admiring, if such your taste, and be content; but ne’er from heart to heart you’ll speak inspiring, save your own heart is eloquent!
+seek thou the honest recompense!
+beware, a tinkling fool to be!
+with little art, clear wit and sense suggest their own delivery; and if thou’rt moved to speak in earnest, what need, that after words thou yearnest?
+yes, your discourses, with their glittering show, where ye for men twist shredded thought like paper, are unrefreshing as the winds that blow the rustling leaves through chill autumnal vapor!
+is parchment, then, the holy fount before thee, a draught wherefrom thy thirst forever slakes?
+no true refreshment can restore thee, save what from thine own soul spontaneous breaks.
+o yes, up to the stars at last!
+listen, my friend: the ages that are past are now a book with seven seals protected: what you the spirit of the ages call is nothing but the spirit of you all, wherein the ages are reflected.
+so, oftentimes, you miserably mar it!
+at the first glance who sees it runs away.
+an offal-barrel and a lumber-garret, or, at the best, a punch-and-judy play, with maxims most pragmatical and hitting, as in the mouths of puppets are befitting!
+yes, of the kind which men attain!
+who dares the child’s true name in public mention?
+the few, who thereof something really learned, unwisely frank, with hearts that spurned concealing, and to the mob laid bare each thought and feeling, have evermore been crucified and burned.
+i pray you, friend, ’tis now the dead of night; our converse here must be suspended.
+that brain, alone, not loses hope, whose choice is to stick in shallow trash forevermore,— which digs with eager hand for buried ore, and, when it finds an angle-worm, rejoices!
+dare such a human voice disturb the flow, around me here, of spirit-presence fullest?
+and yet, this once my thanks i owe to thee, of all earth’s sons the poorest, dullest!
+for thou hast torn me from that desperate state which threatened soon to overwhelm my senses: the apparition was so giant-great, it dwarfed and withered all my soul’s pretences!
+i, image of the godhead, who began— deeming eternal truth secure in nearness— to sun myself in heavenly light and clearness, and laid aside the earthly man;— i, more than cherub, whose free force had planned to flow through nature’s veins in glad pulsation, to reach beyond, enjoying in creation the life of gods, behold my expiation!
+a thunder-word hath swept me from my stand.27  with thee i dare not venture to compare me.
+though i possessed the power to draw thee near me, the power to keep thee was denied my hand.
+when that ecstatic moment held me, i felt myself so small, so great; but thou hast ruthlessly repelled me back upon man’s uncertain fate.
+what shall i shun?
+whose guidance borrow?
+shall i accept that stress and strife?
+ah!
+every deed of ours, no less than every sorrow, impedes the onward march of life.
+some alien substance more and more is cleaving to all the mind conceives of grand and fair; when this world’s good is won by our achieving, the better, then, is named a cheat and snare.
+the fine emotions, whence our lives we mould, lie in the earthly tumult dumb and cold.
+if hopeful fancy once, in daring flight, her longings to the infinite expanded, yet now a narrow space contents her quite, since time’s wild wave so many a fortune stranded.
+care at the bottom of the heart is lurking: her secret pangs in silence working, she, restless, rocks herself, disturbing joy and rest: in newer masks her face is ever drest, by turns as house and land, as wife and child, presented,— as water, fire, as poison, steel: we dread the blows we never feel, and what we never lose is yet by us lamented!
+i am not like the gods!
+that truth is felt too deep: the worm am i, that in the dust doth creep,— that, while in dust it lives and seeks its bread, is crushed and buried by the wanderer’s tread.
+is not this dust, these walls within them hold, the hundred shelves, which cramp and chain me, the frippery, the trinkets thousandfold, that in this mothy den restrain me?
+here shall i find the help i need?
+shall here a thousand volumes teach me only that men, self-tortured, everywhere must bleed,— and here and there one happy man sits lonely?28 what mean’st thou by that grin, thou hollow skull, save that thy brain, like mine, a cloudy mirror, sought once the shining day, and then, in twilight dull,29 thirsting for truth, went wretchedly to error?
+ye instruments, forsooth, but jeer at me with wheel and cog, and shapes uncouth of wonder; i found the portal, you the keys should be; your wards are deftly wrought, but drive no bolts asunder!
+mysterious even in open day, nature retains her veil, despite our clamors: that which she doth not willingly display cannot be wrenched from her with levers, screws, and hammers.
+ye ancient tools, whose use i never knew, here, since my father used ye, still ye moulder: thou, ancient scroll, hast worn thy smoky hue since at this desk the dim lamp wont to smoulder.
+’t were better far, had i my little idly spent, than now to sweat beneath its burden, i confess it!
+what from your fathers’ heritage is lent, earn it anew, to really possess it!30 what serves not, is a sore impediment: the moment’s need creates the thing to serve and bless it!
+yet, wherefore tums my gaze to yonder point so lightly?
+is yonder flask a magnet for mine eyes?
+whence, all around me, glows the air so brightly, as when in woods at night the mellow moonbeam lies?
+i hail thee, wondrous, rarest vial!
+i take thee down devoutly, for the trial: man’s art and wit i venerate in thee.
+thou summary of gentle slumber-juices, essence of deadly finest powers and uses, unto thy master show thy favor free!
+i see thee, and the stings of pain diminish; i grasp thee, and my struggles slowly finish: my spirit’s flood-tide ebbeth more and more.
+out on the open ocean speeds my dreaming; the glassy flood before my feet is gleaming, a new day beckons to a newer shore!
+a fiery chariot, borne on buoyant pinions, sweeps near me now!
+i soon shall ready be to pierce the ether’s high, unknown dominions, to reach new spheres of pure activity!
+this godlike rapture, this supreme existence, do i, but now a worm, deserve to track?
+yes, resolute to reach some brighter distance, on earth’s fair sun i turn my back 31 yes, let me dare those gates to fling asunder, which every man would fain go slinking by!
+’t is time, through deeds this word of truth to thunder: that with the height of gods man’s dignity may vie!
+nor from that gloomy gulf to shrink affrighted, where fancy doth herself to self-born pangs compel,— to struggle toward that pass benighted, around whose narrow mouth flame all the fires of hell,— to take this step with cheerful resolution, though nothingness should be the certain, swift conclusion!
+and now come down, thou cup of crystal clearest!
+fresh from thine ancient cover thou appearest, so many years forgotten to my thought!
+thou shon’st at old ancestral banquets cheery, the solemn guests thou madest merry, when one thy wassail to the other brought.
+the rich and skilful figures o’er thee wrought, the drinker’s duty, rhyme-wise to explain them, or in one breath below the mark to drain them, from many a night of youth my memory caught.
+now to a neighbor shall i pass thee never, nor on thy curious art to test my wit endeavor, here is a juice whence sleep is swiftly born.
+it fills with browner flood thy crystal hollow; i chose, prepared it: thus i follow,— with all my soul the final drink i swallow, a solemn festal cup, a greeting to the morn!
+[he sets the goblet to his mouth.
+chorus of angels.32 christ is arisen!
+joy to the mortal one, whom the unmerited, clinging, inherited needs did imprison.
+faust.
+what hollow humming, what a sharp, clear stroke, drives from my lip the goblet’s, at their meeting?
+announce the booming bells already woke the first glad hour of easter’s festal greeting?
+ye choirs, have ye begun the sweet, consoling chant, which, through the night of death, the angels ministrant sang, god’s new covenant repeating?
+why, here in dust, entice me with your spell, ye gentle, powerful sounds of heaven?
+peal rather there, where tender natures dwell.
+your messages i hear, but faith has not been given; the dearest child of faith is miracle.
+i venture not to soar to yonder regions whence the glad tidings hither float; and yet, from childhood up familiar with the note, to life it now renews the old allegiance.
+once heavenly love sent down a burning kiss upon my brow, in sabbath silence holy; and, filled with mystic presage, chimed the church-bell slowly, and prayer dissolved me in a fervent bliss.
+a sweet, uncomprehended yearning drove forth my feet through woods and meadows free, and while a thousand tears were burning, i felt a world arise for me.
+these chants, to youth and all its sports appealing, proclaimed the spring’s rejoicing holiday; and memory holds me now, with childish feeling, back from the last, the solemn way.
+sound on, ye hymns of heaven, so sweet and mild!
+my tears gush forth: the earth takes back her child!
+released from ice are brook and river by the quickening glance of the gracious spring; the colors of hope to the valley cling, and weak old winter himself must shiver, withdrawn to the mountains, a crownless king: whence, ever retreating, he sends again impotent showers of sleet that darkle in belts across the green o’ the plain.
+but the sun will permit no white to sparkle; everywhere form in development moveth; he will brighten the world with the tints he loveth, and, lacking blossoms, blue, yellow, and red, he takes these gaudy people instead.
+turn thee about, and from this height back on the town direct thy sight.
+out of the hollow, gloomy gate, the motley throngs come forth elate: each will the joy of the sunshine hoard, to honor the day of the risen lord!
+they feel, themselves, their resurrection: from the low, dark rooms, scarce habitable; from the bonds of work, from trade’s restriction; from the pressing weight of roof and gable; from the narrow, crushing streets and alleys; from the churches’ solemn and reverend night, all come forth to the cheerful light.
+how lively, see!
+the multitude sallies, scattering through gardens and fields remote, while over the river, that broadly dallies, dances so many a festive boat; and overladen, nigh to sinking, the last full wherry takes the stream.
+yonder afar, from the hill-paths blinking, their clothes are colors that softly gleam.
+i hear the noise of the village, even; here is the people’s proper heaven; here high and low contented see!
+here i am man,—dare man to be!
 i take the cup you kindly reach, with thanks and health to all and each.
-
 no test or trial you evaded: a helping god the helper aided.
-
 to him above bow down, my friends, who teaches help, and succor sends!
-
-a few more steps ascend, as far as yonder stone!— here from our wandering will we rest contented. here, lost in thought, i’ve lingered oft alone, when foolish fasts and prayers my life tormented. here, rich in hope and firm in faith, with tears, wrung hands and sighs, i’ve striven, the end of that far-spreading death entreating from the lord of heaven! now like contempt the crowd’s applauses seem: couldst thou but read, within mine inmost spirit, how little now i deem, that sire or son such praises merit! my father’s was a sombre, brooding brain, which through the holy spheres of nature groped and wandered, and honestly, in his own fashion, pondered with labor whimsical, and pain: who, in his dusky work-shop bending, with proved adepts in company, made, from his recipes unending, opposing substances agree. there was a lion red, a wooer daring, within the lily’s tepid bath espoused, and both, tormented then by flame unsparing, by turns in either bridal chamber housed. if then appeared, with colors splendid, the young queen in her crystal shell, this was the medicine—the patients’ woes soon ended, and none demanded: who got well? thus we, our hellish boluses compounding, among these vales and hills surrounding, worse than the pestilence, have passed. thousands were done to death from poison of my giving; and i must hear, by all the living, the shameless murderers praised at last!
-
-o happy he, who still renews the hope, from error’s deeps to rise forever! that which one does not know, one needs to use; and what one knows, one uses never. but let us not, by such despondence, so the fortune of this hour embitter! mark how, beneath the evening sunlight’s glow, the green-embosomed houses glitter! the glow retreats, done is the day of toil; it yonder hastes, new fields of life exploring; ah, that no wing can lift me from the soil, upon its track to follow, follow soaring! then would i see eternal evening gild the silent world beneath me glowing, on fire each mountain-peak, with peace each valley filled, the silver brook to golden rivers flowing. the mountain-chain, with all its gorges deep, would then no more impede my godlike motion; and now before mine eyes expands the ocean with all its bays, in shining sleep! yet, finally, the weary god is sinking; the new-born impulse fires my mind,— i hasten on, his beams eternal drinking, the day before me and the night behind, above me heaven unfurled, the floor of waves beneath me,— a glorious dream! though now the glories fade. alas! the wings that lift the mind no aid of wings to lift the body can bequeath me. yet in each soul is born the pleasure of yearning onward, upward and away, when o’er our heads, lost in the vaulted azure, the lark sends down his flickering lay,— when over crags and piny highlands the poising eagle slowly soars, and over plains and lakes and islands the crane sails by to other shores.
-
-one impulse art thou conscious of, at best; o, never seek to know the other! two souls, alas! reside within my breast, and each withdraws from, and repels, its brother. one with tenacious organs holds in love and clinging lust the world in its embraces; the other strongly sweeps, this dust above, into the high ancestral spaces. if there be airy spirits near, ’twixt heaven and earth on potent errands fleeing, let them drop down the golden atmosphere, and bear me forth to new and varied being! yea, if a magic mantle once were mine, to waft me o’er the world at pleasure, i would not for the costliest stores of treasure— not for a monarch’s robe—the gift resign.
-
+a few more steps ascend, as far as yonder stone!— here from our wandering will we rest contented.
+here, lost in thought, i’ve lingered oft alone, when foolish fasts and prayers my life tormented.
+here, rich in hope and firm in faith, with tears, wrung hands and sighs, i’ve striven, the end of that far-spreading death entreating from the lord of heaven!
+now like contempt the crowd’s applauses seem: couldst thou but read, within mine inmost spirit, how little now i deem, that sire or son such praises merit!
+my father’s was a sombre, brooding brain, which through the holy spheres of nature groped and wandered, and honestly, in his own fashion, pondered with labor whimsical, and pain: who, in his dusky work-shop bending, with proved adepts in company, made, from his recipes unending, opposing substances agree.
+there was a lion red, a wooer daring, within the lily’s tepid bath espoused, and both, tormented then by flame unsparing, by turns in either bridal chamber housed.
+if then appeared, with colors splendid, the young queen in her crystal shell, this was the medicine—the patients’ woes soon ended, and none demanded: who got well?
+thus we, our hellish boluses compounding, among these vales and hills surrounding, worse than the pestilence, have passed.
+thousands were done to death from poison of my giving; and i must hear, by all the living, the shameless murderers praised at last!
+o happy he, who still renews the hope, from error’s deeps to rise forever!
+that which one does not know, one needs to use; and what one knows, one uses never.
+but let us not, by such despondence, so the fortune of this hour embitter!
+mark how, beneath the evening sunlight’s glow, the green-embosomed houses glitter!
+the glow retreats, done is the day of toil; it yonder hastes, new fields of life exploring; ah, that no wing can lift me from the soil, upon its track to follow, follow soaring!
+then would i see eternal evening gild the silent world beneath me glowing, on fire each mountain-peak, with peace each valley filled, the silver brook to golden rivers flowing.
+the mountain-chain, with all its gorges deep, would then no more impede my godlike motion; and now before mine eyes expands the ocean with all its bays, in shining sleep!
+yet, finally, the weary god is sinking; the new-born impulse fires my mind,— i hasten on, his beams eternal drinking, the day before me and the night behind, above me heaven unfurled, the floor of waves beneath me,— a glorious dream!
+though now the glories fade.
+alas!
+the wings that lift the mind no aid of wings to lift the body can bequeath me.
+yet in each soul is born the pleasure of yearning onward, upward and away, when o’er our heads, lost in the vaulted azure, the lark sends down his flickering lay,— when over crags and piny highlands the poising eagle slowly soars, and over plains and lakes and islands the crane sails by to other shores.
+one impulse art thou conscious of, at best; o, never seek to know the other!
+two souls, alas!
+reside within my breast, and each withdraws from, and repels, its brother.
+one with tenacious organs holds in love and clinging lust the world in its embraces; the other strongly sweeps, this dust above, into the high ancestral spaces.
+if there be airy spirits near, ’twixt heaven and earth on potent errands fleeing, let them drop down the golden atmosphere, and bear me forth to new and varied being!
+yea, if a magic mantle once were mine, to waft me o’er the world at pleasure, i would not for the costliest stores of treasure— not for a monarch’s robe—the gift resign.
 seest thou the black dog coursing there, through corn and stubble?
-
 inspect him close: for what tak’st thou the beast?
-
-seest thou the spiral circles, narrowing faster, which he, approaching, round us seems to wind? a streaming trail of fire, if i see rightly, follows his path of mystery.
-
+seest thou the spiral circles, narrowing faster, which he, approaching, round us seems to wind?
+a streaming trail of fire, if i see rightly, follows his path of mystery.
 it seems to me that with enchanted cunning he snares our feet, some future chain to bind.
-
 the circle narrows: he is near!
-
-come, follow us! come here, at least!
-
+come, follow us!
+come here, at least!
 no doubt you’re right: no trace of mind, i own, is in the beast: i see but drill, alone.
-
-behind me, field and meadow sleeping, i leave in deep, prophetic night, within whose dread and holy keeping the better soul awakes to light. the wild desires no longer win us, the deeds of passion cease to chain; the love of man revives within us, the love of god revives again.  be still, thou poodle; make not such racket and riot! why at the threshold wilt snuffing be? behind the stove repose thee in quiet! my softest cushion i give to thee. as thou, up yonder, with running and leaping amused us hast, on the mountain’s crest,  so now i take thee into my keeping, a welcome, but also a silent, guest.  ah, when, within our narrow chamber the lamp with friendly lustre glows, flames in the breast each faded ember, and in the heart, itself that knows. then hope again lends sweet assistance, and reason then resumes her speech: one yearns, the rivers of existence, the very founts of life, to reach.  snarl not, poodle! to the sound that rises, the sacred tones that my soul embrace, this bestial noise is out of place. we are used to see, that man despises what he never comprehends, and the good and the beautiful vilipends, finding them often hard to measure: will the dog, like man, snarl _his_ displeasure?  but ah! i feel, though will thereto be stronger, contentment flows from out my breast no longer. why must the stream so soon run dry and fail us, and burning thirst again assail us? therein i’ve borne so much probation! and yet, this want may be supplied us; we call the supernatural to guide us; we pine and thirst for revelation, which nowhere worthier is, more nobly sent, than here, in our new testament. i feel impelled, its meaning to determine,— with honest purpose, once for all,
-
-first, to encounter the beast, the words of the four be addressed: salamander, shine glorious! wave, undine, as bidden! sylph, be thou hidden! gnome, be laborious!  who knows not their sense ,—
-
-this was the poodle’s real core, a travelling scholar, then? the _casus_ is diverting.
-
+behind me, field and meadow sleeping, i leave in deep, prophetic night, within whose dread and holy keeping the better soul awakes to light.
+the wild desires no longer win us, the deeds of passion cease to chain; the love of man revives within us, the love of god revives again.
+be still, thou poodle; make not such racket and riot!
+why at the threshold wilt snuffing be?
+behind the stove repose thee in quiet!
+my softest cushion i give to thee.
+as thou, up yonder, with running and leaping amused us hast, on the mountain’s crest,  so now i take thee into my keeping, a welcome, but also a silent, guest.
+ah, when, within our narrow chamber the lamp with friendly lustre glows, flames in the breast each faded ember, and in the heart, itself that knows.
+then hope again lends sweet assistance, and reason then resumes her speech: one yearns, the rivers of existence, the very founts of life, to reach.
+snarl not, poodle!
+to the sound that rises, the sacred tones that my soul embrace, this bestial noise is out of place.
+we are used to see, that man despises what he never comprehends, and the good and the beautiful vilipends, finding them often hard to measure: will the dog, like man, snarl _his_ displeasure?
+but ah!
+i feel, though will thereto be stronger, contentment flows from out my breast no longer.
+why must the stream so soon run dry and fail us, and burning thirst again assail us?
+therein i’ve borne so much probation!
+and yet, this want may be supplied us; we call the supernatural to guide us; we pine and thirst for revelation, which nowhere worthier is, more nobly sent, than here, in our new testament.
+i feel impelled, its meaning to determine,— with honest purpose, once for all,
+first, to encounter the beast, the words of the four be addressed: salamander, shine glorious!
+wave, undine, as bidden!
+sylph, be thou hidden!
+gnome, be laborious!
+who knows not their sense ,—
+this was the poodle’s real core, a travelling scholar, then?
+the _casus_ is diverting.
 what is thy name?
-
-with all you gentlemen, the name’s a test, whereby the nature usually is expressed. clearly the latter it implies in names like beelzebub, destroyer, father of lies. who art thou, then?
-
+with all you gentlemen, the name’s a test, whereby the nature usually is expressed.
+clearly the latter it implies in names like beelzebub, destroyer, father of lies.
+who art thou, then?
 what hidden sense in this enigma lies?
-
 thou nam’st thyself a part, yet show’st complete to me?
-
 i see the plan thou art pursuing: thou canst not compass general ruin, and hast on smaller scale begun.
-
-so, to the actively eternal creative force, in cold disdain you now oppose the fist infernal, whose wicked clench is all in vain! some other labor seek thou rather, queer son of chaos, to begin!
-
-why thou shouldst ask, i don’t perceive. though our acquaintance is so recent, for further visits thou hast leave. the window’s here, the door is yonder; a chimney, also, you behold.
-
-the pentagram prohibits thee? why, tell me now, thou son of hades, if that prevents, how cam’st thou in to me? could such a spirit be so cheated?
-
-well,—chance, this time, has fairly hit it! and thus, thou’rt prisoner to me? it seems the business has succeeded.
-
+so, to the actively eternal creative force, in cold disdain you now oppose the fist infernal, whose wicked clench is all in vain!
+some other labor seek thou rather, queer son of chaos, to begin!
+why thou shouldst ask, i don’t perceive.
+though our acquaintance is so recent, for further visits thou hast leave.
+the window’s here, the door is yonder; a chimney, also, you behold.
+the pentagram prohibits thee?
+why, tell me now, thou son of hades, if that prevents, how cam’st thou in to me?
+could such a spirit be so cheated?
+well,—chance, this time, has fairly hit it!
+and thus, thou’rt prisoner to me?
+it seems the business has succeeded.
 try, then, the open window-pane!
-
-in hell itself, then, laws are reckoned? that’s well! so might a compact be made with you gentlemen—and binding,—surely?
-
+in hell itself, then, laws are reckoned?
+that’s well!
+so might a compact be made with you gentlemen—and binding,—surely?
 one moment more i ask thee to remain, some pleasant news, at least, to tell me.
-
-i have not snares around thee cast; thyself hast led thyself into the meshes. who traps the devil, hold him fast! not soon a second time he’ll catch a prey so precious.
-
+i have not snares around thee cast; thyself hast led thyself into the meshes.
+who traps the devil, hold him fast!
+not soon a second time he’ll catch a prey so precious.
 thereto i willingly agree, if the diversion pleasant be.
-
-a knock? come in! again my quiet broken?
-
+a knock?
 come in!
-
+again my quiet broken?
+come in!
 come in, then!
-
-this life of earth, whatever my attire, would pain me in its wonted fashion. too old am i to play with passion; too young, to be without desire. what from the world have i to gain? thou shalt abstain—renounce—refrain! such is the everlasting song that in the ears of all men rings,— that unrelieved, our whole life long, each hour, in passing, hoarsely sings. in very terror i at morn awake, upon the verge of bitter weeping, to see the day of disappointment break, to no one hope of mine—not one—its promise keeping:— that even each joy’s presentiment with wilful cavil would diminish, with grinning masks of life prevent my mind its fairest work to finish! then, too, when night descends, how anxiously upon my couch of sleep i lay me: there, also, comes no rest to me, but some wild dream is sent to fray me. the god that in my breast is owned can deeply stir the inner sources; the god, above my powers enthroned, he cannot change external forces. so, by the burden of my days oppressed, death is desired, and life a thing unblest!
-
-o fortunate, for whom, when victory glances, the bloody laurels on the brow he bindeth! whom, after rapid, maddening dances, in clasping maiden-arms he findeth! o would that i, before that spirit-power, ravished and rapt from life, had sunken!
-
-eavesdropping, ha! thy pleasure seems to be.
-
-though some familiar tone, retrieving my thoughts from torment, led me on, and sweet, clear echoes came, deceiving a faith bequeathed from childhood’s dawn, yet now i curse whate’er entices and snares the soul with visions vain; with dazzling cheats and dear devices confines it in this cave of pain! cursed be, at once, the high ambition wherewith the mind itself deludes! cursed be the glare of apparition that on the finer sense intrudes! cursed be the lying dream’s impression of name, and fame, and laurelled brow! cursed, all that flatters as possession, as wife and child, as knave and plow! cursed mammon be, when he with treasures to restless action spurs our fate! cursed when, for soft, indulgent leisures, he lays for us the pillows straight! cursed be the vine’s transcendent nectar,— the highest favor love lets fall! cursed, also, hope!—cursed faith, the spectre! and cursed be patience most of all!
-
+this life of earth, whatever my attire, would pain me in its wonted fashion.
+too old am i to play with passion; too young, to be without desire.
+what from the world have i to gain?
+thou shalt abstain—renounce—refrain!
+such is the everlasting song that in the ears of all men rings,— that unrelieved, our whole life long, each hour, in passing, hoarsely sings.
+in very terror i at morn awake, upon the verge of bitter weeping, to see the day of disappointment break, to no one hope of mine—not one—its promise keeping:— that even each joy’s presentiment with wilful cavil would diminish, with grinning masks of life prevent my mind its fairest work to finish!
+then, too, when night descends, how anxiously upon my couch of sleep i lay me: there, also, comes no rest to me, but some wild dream is sent to fray me.
+the god that in my breast is owned can deeply stir the inner sources; the god, above my powers enthroned, he cannot change external forces.
+so, by the burden of my days oppressed, death is desired, and life a thing unblest!
+o fortunate, for whom, when victory glances, the bloody laurels on the brow he bindeth!
+whom, after rapid, maddening dances, in clasping maiden-arms he findeth!
+o would that i, before that spirit-power, ravished and rapt from life, had sunken!
+eavesdropping, ha!
+thy pleasure seems to be.
+though some familiar tone, retrieving my thoughts from torment, led me on, and sweet, clear echoes came, deceiving a faith bequeathed from childhood’s dawn, yet now i curse whate’er entices and snares the soul with visions vain; with dazzling cheats and dear devices confines it in this cave of pain!
+cursed be, at once, the high ambition wherewith the mind itself deludes!
+cursed be the glare of apparition that on the finer sense intrudes!
+cursed be the lying dream’s impression of name, and fame, and laurelled brow!
+cursed, all that flatters as possession, as wife and child, as knave and plow!
+cursed mammon be, when he with treasures to restless action spurs our fate!
+cursed when, for soft, indulgent leisures, he lays for us the pillows straight!
+cursed be the vine’s transcendent nectar,— the highest favor love lets fall!
+cursed, also, hope!—cursed faith, the spectre!
+and cursed be patience most of all!
 and what shall be my counter-service therefor?
-
-no—no! the devil is an egotist, and is not apt, without a why or wherefore, “for god’s sake,” others to assist. speak thy conditions plain and clear! with such a servant danger comes, i fear.
-
-the _there_ my scruples naught increases. when thou hast dashed this world to pieces, the other, then, its place may fill. here, on this earth, my pleasures have their sources; yon sun beholds my sorrows in his courses; and when from these my life itself divorces, let happen all that can or will! i’ll hear no more: ’tis vain to ponder if there we cherish love or hate, or, in the spheres we dream of yonder, a high and low our souls await.
-
-canst thou, poor devil, give me whatsoever? when was a human soul, in its supreme endeavor, e’er understood by such as thou? yet, hast thou food which never satiates, now,— the restless, ruddy gold hast thou, that runs, quicksilver-like, one’s fingers through,— a game whose winnings no man ever knew,— a maid that, even from my breast, beckons my neighbor with her wanton glances, and honor’s godlike zest, the meteor that a moment dances,— show me the fruits that, ere they’re gathered, rot, and trees that daily with new leafage clothe them!
-
-when on an idler’s bed i stretch myself in quiet. there let, at once, my record end! canst thou with lying flattery rule me, until, self-pleased, myself i see,— canst thou with rich enjoyment fool me, let that day be the last for me! the bet i offer.
-
-and heartily! when thus i hail the moment flying: “ah, still delay—thou art so fair!” then bind me in thy bonds undying, my final ruin then declare! then let the death-bell chime the token. then art thou from thy service free! the clock may stop, the hand be broken, then time be finished unto me!
-
-thou hast a perfect right thereto. my powers i have not rashly estimated: a slave am i, whate’er i do— if thine, or whose? ’tis needless to debate it.
-
-demand’st thou, pedant, too, a document? hast never known a man, nor proved his word’s intent? is’t not enough, that what i speak to-day shall stand, with all my future days agreeing? in all its tides sweeps not the world away, and shall a promise bind my being? yet this delusion in our hearts we bear: who would himself therefrom deliver? blest he, whose bosom truth makes pure and fair! no sacrifice shall he repent of ever. nathless a parchment, writ and stamped with care, a spectre is, which all to shun endeavor. the word, alas! dies even in the pen, and wax and leather keep the lordship then. what wilt from me, base spirit, say?— brass, marble, parchment, paper, clay? the terms with graver, quill, or chisel, stated? i freely leave the choice to thee.
-
+no—no!
+the devil is an egotist, and is not apt, without a why or wherefore, “for god’s sake,” others to assist.
+speak thy conditions plain and clear!
+with such a servant danger comes, i fear.
+the _there_ my scruples naught increases.
+when thou hast dashed this world to pieces, the other, then, its place may fill.
+here, on this earth, my pleasures have their sources; yon sun beholds my sorrows in his courses; and when from these my life itself divorces, let happen all that can or will!
+i’ll hear no more: ’tis vain to ponder if there we cherish love or hate, or, in the spheres we dream of yonder, a high and low our souls await.
+canst thou, poor devil, give me whatsoever?
+when was a human soul, in its supreme endeavor, e’er understood by such as thou?
+yet, hast thou food which never satiates, now,— the restless, ruddy gold hast thou, that runs, quicksilver-like, one’s fingers through,— a game whose winnings no man ever knew,— a maid that, even from my breast, beckons my neighbor with her wanton glances, and honor’s godlike zest, the meteor that a moment dances,— show me the fruits that, ere they’re gathered, rot, and trees that daily with new leafage clothe them!
+when on an idler’s bed i stretch myself in quiet.
+there let, at once, my record end!
+canst thou with lying flattery rule me, until, self-pleased, myself i see,— canst thou with rich enjoyment fool me, let that day be the last for me!
+the bet i offer.
+and heartily!
+when thus i hail the moment flying: “ah, still delay—thou art so fair!” then bind me in thy bonds undying, my final ruin then declare!
+then let the death-bell chime the token.
+then art thou from thy service free!
+the clock may stop, the hand be broken, then time be finished unto me!
+thou hast a perfect right thereto.
+my powers i have not rashly estimated: a slave am i, whate’er i do— if thine, or whose?
+’tis needless to debate it.
+demand’st thou, pedant, too, a document?
+hast never known a man, nor proved his word’s intent?
+is’t not enough, that what i speak to-day shall stand, with all my future days agreeing?
+in all its tides sweeps not the world away, and shall a promise bind my being?
+yet this delusion in our hearts we bear: who would himself therefrom deliver?
+blest he, whose bosom truth makes pure and fair!
+no sacrifice shall he repent of ever.
+nathless a parchment, writ and stamped with care, a spectre is, which all to shun endeavor.
+the word, alas!
+dies even in the pen, and wax and leather keep the lordship then.
+what wilt from me, base spirit, say?— brass, marble, parchment, paper, clay?
+the terms with graver, quill, or chisel, stated?
+i freely leave the choice to thee.
 if thou therewith art fully satisfied, so let us by the farce abide.
-
-fear not that i this pact shall seek to sever? the promise that i make to thee is just the sum of my endeavor. i have myself inflated all too high; my proper place is thy estate: the mighty spirit deigns me no reply, and nature shuts on me her gate. the thread of thought at last is broken, and knowledge brings disgust unspoken. let us the sensual deeps explore, to quench the fervors of glowing passion! let every marvel take form and fashion through the impervious veil it wore! plunge we in time’s tumultuous dance, in the rush and roll of circumstance! then may delight and distress, and worry and success, alternately follow, as best they can: restless activity proves the man!
-
-but thou hast heard, ’tis not of joy we’re talking. i take the wildering whirl, enjoyment’s keenest pain, enamored hate, exhilarant disdain. my bosom, of its thirst for knowledge sated, shall not, henceforth, from any pang be wrested, and all of life for all mankind created shall be within mine inmost being tested: the highest, lowest forms my soul shall borrow, shall heap upon itself their bliss and sorrow, and thus, my own sole self to all their selves expanded, i too, at last, shall with them all be stranded!
-
+fear not that i this pact shall seek to sever?
+the promise that i make to thee is just the sum of my endeavor.
+i have myself inflated all too high; my proper place is thy estate: the mighty spirit deigns me no reply, and nature shuts on me her gate.
+the thread of thought at last is broken, and knowledge brings disgust unspoken.
+let us the sensual deeps explore, to quench the fervors of glowing passion!
+let every marvel take form and fashion through the impervious veil it wore!
+plunge we in time’s tumultuous dance, in the rush and roll of circumstance!
+then may delight and distress, and worry and success, alternately follow, as best they can: restless activity proves the man!
+but thou hast heard, ’tis not of joy we’re talking.
+i take the wildering whirl, enjoyment’s keenest pain, enamored hate, exhilarant disdain.
+my bosom, of its thirst for knowledge sated, shall not, henceforth, from any pang be wrested, and all of life for all mankind created shall be within mine inmost being tested: the highest, lowest forms my soul shall borrow, shall heap upon itself their bliss and sorrow, and thus, my own sole self to all their selves expanded, i too, at last, shall with them all be stranded!
 nay, but i will!
-
 what am i, then, if ’tis denied my part the crown of all humanity to win me, whereto yearns every sense within me?
-
 i feel, indeed, that i have made the treasure of human thought and knowledge mine, in vain; and if i now sit down in restful leisure, no fount of newer strength is in my brain: i am no hair’s-breadth more in height, nor nearer, to the infinite,
-
 then how shall we begin?
-
 to see him now i have no heart.
-
 now, whither shall we go?
-
-yet with the flowing beard i wear, both ease and grace will fail me there. the attempt, indeed, were a futile strife; i never could learn the ways of life. i feel so small before others, and thence should always find embarrassments.
-
-how shall we leave the house, and start? where hast thou servant, coach and horses?
-
+yet with the flowing beard i wear, both ease and grace will fail me there.
+the attempt, indeed, were a futile strife; i never could learn the ways of life.
+i feel so small before others, and thence should always find embarrassments.
+how shall we leave the house, and start?
+where hast thou servant, coach and horses?
 fair greeting, gentlemen!
-
 to leave them is my inclination.
-
-these crazy signs of witches’ craft repel me! i shall recover, dost thou tell me, through this insane, chaotic play? from an old hag shall i demand assistance? and will her foul mess take away full thirty years from my existence? woe’s me, canst thou naught better find! another baffled hope must be lamented: has nature, then, and has a noble mind not any potent balsam yet invented?
-
+these crazy signs of witches’ craft repel me!
+i shall recover, dost thou tell me, through this insane, chaotic play?
+from an old hag shall i demand assistance?
+and will her foul mess take away full thirty years from my existence?
+woe’s me, canst thou naught better find!
+another baffled hope must be lamented: has nature, then, and has a noble mind not any potent balsam yet invented?
 yet will i know it.
-
-i am not used to that; i cannot stoop to try it— to take the spade in hand, and ply it. the narrow being suits me not at all.
-
-wherefore the hag, and her alone? canst thou thyself not brew the potion?
-
+i am not used to that; i cannot stoop to try it— to take the spade in hand, and ply it.
+the narrow being suits me not at all.
+wherefore the hag, and her alone?
+canst thou thyself not brew the potion?
 absurder than i ever yet did see.
-
-(_who during all this time has been standing before a mirror, now approaching and now retreating from it_)  what do i see? what heavenly form revealed shows through the glass from magic’s fair dominions! o lend me, love, the swiftest of thy pinions, and bear me to her beauteous field! ah, if i leave this spot with fond designing, if i attempt to venture near, dim, as through gathering mist, her charms appear!— a woman’s form, in beauty shining! can woman, then, so lovely be? and must i find her body, there reclining, of all the heavens the bright epitome? can earth with such a thing be mated?
-
-woe’s me! i fear to lose my wits.
-
+(_who during all this time has been standing before a mirror, now approaching and now retreating from it_)  what do i see?
+what heavenly form revealed shows through the glass from magic’s fair dominions!
+o lend me, love, the swiftest of thy pinions, and bear me to her beauteous field!
+ah, if i leave this spot with fond designing, if i attempt to venture near, dim, as through gathering mist, her charms appear!— a woman’s form, in beauty shining!
+can woman, then, so lovely be?
+and must i find her body, there reclining, of all the heavens the bright epitome?
+can earth with such a thing be mated?
+woe’s me!
+i fear to lose my wits.
 my bosom burns with that sweet vision; let us, with speed, away from here!
-
-now, what shall come of this? the creatures antic, the crazy stuff, the gestures frantic,— all the repulsive cheats i view,— are known to me, and hated, too.
-
+now, what shall come of this?
+the creatures antic, the crazy stuff, the gestures frantic,— all the repulsive cheats i view,— are known to me, and hated, too.
 she talks like one who raves in fever.
-
-what nonsense she declaims before us! my head is nigh to split, i fear: it seems to me as if i hear a hundred thousand fools in chorus.
-
+what nonsense she declaims before us!
+my head is nigh to split, i fear: it seems to me as if i hear a hundred thousand fools in chorus.
 one rapid glance within the mirror give me, how beautiful that woman-form!
-
 fair lady, let it not offend you, that arm and escort i would lend you!
-
-by heaven, the girl is wondrous fair! of all i’ve seen, beyond compare; so sweetly virtuous and pure, and yet a little pert, be sure! the lip so red, the cheek’s clear dawn,  i’ll not forget while the world rolls on! how she cast down her timid eyes, deep in my heart imprinted lies: how short and sharp of speech was she, why, ’twas a real ecstasy!
-
+by heaven, the girl is wondrous fair!
+of all i’ve seen, beyond compare; so sweetly virtuous and pure, and yet a little pert, be sure!
+the lip so red, the cheek’s clear dawn,  i’ll not forget while the world rolls on!
+how she cast down her timid eyes, deep in my heart imprinted lies: how short and sharp of speech was she, why, ’twas a real ecstasy!
 hear, of that girl i’d have possession!
-
 the one who just went by.
-
 and yet, she’s older than fourteen.
-
-most worthy pedagogue, take heed! let not a word of moral law be spoken! i claim, i tell thee, all my right; and if that image of delight rest not within mine arms to-night, at midnight is our compact broken.
-
+most worthy pedagogue, take heed!
+let not a word of moral law be spoken!
+i claim, i tell thee, all my right; and if that image of delight rest not within mine arms to-night, at midnight is our compact broken.
 had i but seven hours for all, i should not on the devil call, but win her by my own persuasion.
-
 without that, i have appetite.
-
-get me something the angel keeps! lead me thither where she sleeps! get me a kerchief from her breast,— a garter that her knee has pressed!
-
+get me something the angel keeps!
+lead me thither where she sleeps!
+get me a kerchief from her breast,— a garter that her knee has pressed!
 and shall i see—possess her?
-
 can we go thither?
-
-a gift for her i bid thee get! [_exit_.
-
+a gift for her i bid thee get!
+[_exit_.
 leave me alone, i beg of thee!
-
-o welcome, twilight soft and sweet, that breathes throughout this hallowed shrine! sweet pain of love, bind thou with fetters fleet the heart that on the dew of hope must pine! how all around a sense impresses of quiet, order, and content! this poverty what bounty blesses! what bliss within this narrow den is pent!    receive me, thou, that in thine open arms departed joy and pain wert wont to gather! how oft the children, with their ruddy charms, hung here, around this throne, where sat the father! perchance my love, amid the childish band, grateful for gifts the holy christmas gave her, here meekly kissed the grandsire’s withered hand. i feel, o maid! thy very soul of order and content around me whisper,— which leads thee with its motherly control, the cloth upon thy board bids smoothly thee unroll, the sand beneath thy feet makes whiter, crisper. o dearest hand, to thee ’tis given to change this hut into a lower heaven! and here!    what sweetest thrill is in my blood! here could i spend whole hours, delaying: here nature shaped, as if in sportive playing, the angel blossom from the bud. here lay the child, with life’s warm essence the tender bosom filled and fair, and here was wrought, through holier, purer presence, the form diviner beings wear!  and i? what drew me here with power? how deeply am i moved, this hour! what seek i? why so full my heart, and sore? miserable faust! i know thee now no more.  is there a magic vapor here? i came, with lust of instant pleasure, and lie dissolved in dreams of love’s sweet leisure! are we the sport of every changeful atmosphere?  and if, this moment, came she in to me, how would i for the fault atonement render! how small the giant lout would be, prone at her feet, relaxed and tender!
-
-go! go! i never will retreat.
-
+o welcome, twilight soft and sweet, that breathes throughout this hallowed shrine!
+sweet pain of love, bind thou with fetters fleet the heart that on the dew of hope must pine!
+how all around a sense impresses of quiet, order, and content!
+this poverty what bounty blesses!
+what bliss within this narrow den is pent!
+receive me, thou, that in thine open arms departed joy and pain wert wont to gather!
+how oft the children, with their ruddy charms, hung here, around this throne, where sat the father!
+perchance my love, amid the childish band, grateful for gifts the holy christmas gave her, here meekly kissed the grandsire’s withered hand.
+i feel, o maid!
+thy very soul of order and content around me whisper,— which leads thee with its motherly control, the cloth upon thy board bids smoothly thee unroll, the sand beneath thy feet makes whiter, crisper.
+o dearest hand, to thee ’tis given to change this hut into a lower heaven!
+and here!
+what sweetest thrill is in my blood!
+here could i spend whole hours, delaying: here nature shaped, as if in sportive playing, the angel blossom from the bud.
+here lay the child, with life’s warm essence the tender bosom filled and fair, and here was wrought, through holier, purer presence, the form diviner beings wear!
+and i?
+what drew me here with power?
+how deeply am i moved, this hour!
+what seek i?
+why so full my heart, and sore?
+miserable faust!
+i know thee now no more.
+is there a magic vapor here?
+i came, with lust of instant pleasure, and lie dissolved in dreams of love’s sweet leisure!
+are we the sport of every changeful atmosphere?
+and if, this moment, came she in to me, how would i for the fault atonement render!
+how small the giant lout would be, prone at her feet, relaxed and tender!
+go!
+go!
+i never will retreat.
 i know not, should i do it?
-
-what ails thee? what is’t gripes thee, elf? a face like thine beheld i never.
-
+what ails thee?
+what is’t gripes thee, elf?
+a face like thine beheld i never.
 thy head is out of order, sadly: it much becomes thee to be raving madly.
-
 a general practice is the same, which jew and king may also claim.
-
 and margaret?
-
-the darling’s sorrow gives me pain. get thou a set for her again! the first was not a great display.
-
-fix and arrange it to my will; and on her neighbor try thy skill! don’t be a devil stiff as paste, but get fresh jewels to her taste!
-
-how is it? under way? and soon complete?
-
+the darling’s sorrow gives me pain.
+get thou a set for her again!
+the first was not a great display.
+fix and arrange it to my will; and on her neighbor try thy skill!
+don’t be a devil stiff as paste, but get fresh jewels to her taste!
+how is it?
+under way?
+and soon complete?
 tis well.
-
 one service pays the other thus.
-
-most wise! and first, of course, we’ll make the journey thither?
-
+most wise!
+and first, of course, we’ll make the journey thither?
 if you’ve naught better, then, i’ll tear your pretty plan!
-
 thou art, and thou remain’st, a sophist, liar.
-
 and from my heart.
-
-hold! hold! it will!—if such my flame, and for the sense and power intense i seek, and cannot find, a name; then range with all my senses through creation, craving the speech of inspiration, and call this ardor, so supernal, endless, eternal and eternal,— is that a devilish lying game?
-
-mark this, i beg of thee! and spare my lungs henceforth: whoever intends to have the right, if but his tongue be clever, will have it, certainly. but come: the further talking brings disgust, for thou art right, especially since i must.
-
+hold!
+hold!
+it will!—if such my flame, and for the sense and power intense i seek, and cannot find, a name; then range with all my senses through creation, craving the speech of inspiration, and call this ardor, so supernal, endless, eternal and eternal,— is that a devilish lying game?
+mark this, i beg of thee!
+and spare my lungs henceforth: whoever intends to have the right, if but his tongue be clever, will have it, certainly.
+but come: the further talking brings disgust, for thou art right, especially since i must.
 a look from thee, a word, more entertains than all the lore of wisest brains.
-
-trust me, dear heart! what men call sensible is oft mere vanity and narrowness.
-
-ah, that simplicity and innocence ne’er know themselves, their holy value, and their spell! that meekness, lowliness, the highest graces which nature portions out so lovingly—
-
+trust me, dear heart!
+what men call sensible is oft mere vanity and narrowness.
+ah, that simplicity and innocence ne’er know themselves, their holy value, and their spell!
+that meekness, lowliness, the highest graces which nature portions out so lovingly—
 no doubt you’re much alone?
-
 an angel, if like thee!
-
 the purest bliss was surely then thy dower.
-
-and me, thou angel! didst thou recognize, as through the garden-gate i came?
-
+and me, thou angel!
+didst thou recognize, as through the garden-gate i came?
 and thou forgiv’st my freedom, and the blame to my impertinence befitting, as the cathedral thou wert quitting?
-
 sweet darling!
-
 shall that a nosegay be?
-
 how?
-
 what murmurest thou?
-
 thou sweet, angelic soul!
-
-yes, child! and let this blossom-word for thee be speech divine! he loves thee! ah, know’st thou what it means? he loves thee!
-
-o tremble not! but let this look, let this warm clasp of hands declare thee what is unspeakable! to yield one wholly, and to feel a rapture in yielding, that must be eternal! eternal!—for the end would be despair. no, no,—no ending! no ending!
-
-ah, rogue! a tease thou art: i have thee!
-
+yes, child!
+and let this blossom-word for thee be speech divine!
+he loves thee!
+ah, know’st thou what it means?
+he loves thee!
+o tremble not!
+but let this look, let this warm clasp of hands declare thee what is unspeakable!
+to yield one wholly, and to feel a rapture in yielding, that must be eternal!
+eternal!—for the end would be despair.
+no, no,—no ending!
+no ending!
+ah, rogue!
+a tease thou art: i have thee!
 who’s there?
-
 a beast!
-
 may i not, then, upon you wait?
-
-ah, can i not remain? farewell!
-
-spirit sublime, thou gav’st me, gav’st me all for which i prayed. not unto me in vain hast thou thy countenance revealed in fire. thou gav’st me nature as a kingdom grand, with power to feel and to enjoy it. thou not only cold, amazed acquaintance yield’st, but grantest, that in her profoundest breast i gaze, as in the bosom of a friend. the ranks of living creatures thou dost lead before me, teaching me to know my brothers in air and water and the silent wood. and when the storm in forests roars and grinds, the giant firs, in falling, neighbor boughs and neighbor trunks with crushing weight bear down, and falling, fill the hills with hollow thunders,— then to the cave secure thou leadest me, then show’st me mine own self, and in my breast the deep, mysterious miracles unfold. and when the perfect moon before my gaze comes up with soothing light, around me float from every precipice and thicket damp the silvery phantoms of the ages past, and temper the austere delight of thought.  that nothing can be perfect unto man i now am conscious. with this ecstasy, which brings me near and nearer to the gods, thou gav’st the comrade, whom i now no more can do without, though, cold and scornful, he demeans me to myself, and with a breath, a word, transforms thy gifts to nothingness. within my breast he fans a lawless fire, unwearied, for that fair and lovely form: thus in desire i hasten to enjoyment, and in enjoyment pine to feel desire.
-
-would there were other work for thee! to plague my day auspicious thou returnest.
-
+ah, can i not remain?
+farewell!
+spirit sublime, thou gav’st me, gav’st me all for which i prayed.
+not unto me in vain hast thou thy countenance revealed in fire.
+thou gav’st me nature as a kingdom grand, with power to feel and to enjoy it.
+thou not only cold, amazed acquaintance yield’st, but grantest, that in her profoundest breast i gaze, as in the bosom of a friend.
+the ranks of living creatures thou dost lead before me, teaching me to know my brothers in air and water and the silent wood.
+and when the storm in forests roars and grinds, the giant firs, in falling, neighbor boughs and neighbor trunks with crushing weight bear down, and falling, fill the hills with hollow thunders,— then to the cave secure thou leadest me, then show’st me mine own self, and in my breast the deep, mysterious miracles unfold.
+and when the perfect moon before my gaze comes up with soothing light, around me float from every precipice and thicket damp the silvery phantoms of the ages past, and temper the austere delight of thought.
+that nothing can be perfect unto man i now am conscious.
+with this ecstasy, which brings me near and nearer to the gods, thou gav’st the comrade, whom i now no more can do without, though, cold and scornful, he demeans me to myself, and with a breath, a word, transforms thy gifts to nothingness.
+within my breast he fans a lawless fire, unwearied, for that fair and lovely form: thus in desire i hasten to enjoyment, and in enjoyment pine to feel desire.
+would there were other work for thee!
+to plague my day auspicious thou returnest.
 there is, again, thy proper tone!— that thou hast bored me, i must thankful be!
-
-what fresh and vital forces, canst thou guess, spring from my commerce with the wilderness? but, if thou hadst the power of guessing, thou wouldst be devil enough to grudge my soul the blessing.
-
+what fresh and vital forces, canst thou guess, spring from my commerce with the wilderness?
+but, if thou hadst the power of guessing, thou wouldst be devil enough to grudge my soul the blessing.
 shame on thee!
-
-serpent! serpent!  mephistopheles __  ha! do i trap thee!
-
-get thee away with thine offences, reprobate! name not that fairest thing, nor the desire for her sweet body bring again before my half-distracted senses!
-
+serpent!
+serpent!
+mephistopheles __  ha!
+do i trap thee!
+get thee away with thine offences, reprobate!
+name not that fairest thing, nor the desire for her sweet body bring again before my half-distracted senses!
 yet am i near, and love keeps watch and ward; though i were ne’er so far, it cannot falter: i envy even the body of the lord the touching of her lips, before the altar.
-
 away, thou pimp!
-
-what are, within her arms, the heavenly blisses? though i be glowing with her kisses, do i not always share her need? i am the fugitive, all houseless roaming, the monster without air or rest, that like a cataract, down rocks and gorges foaming, leaps, maddened, into the abyss’s breast! and side-wards she, with young unwakened senses, within her cabin on the alpine field her simple, homely life commences, her little world therein concealed. and i, god’s hate flung o’er me, had not enough, to thrust the stubborn rocks before me and strike them into dust! she and her peace i yet must undermine: thou, hell, hast claimed this sacrifice as thine! help, devil! through the coming pangs to push me; what must be, let it quickly be! let fall on me her fate, and also crush me,— one ruin whelm both her and me!
-
+what are, within her arms, the heavenly blisses?
+though i be glowing with her kisses, do i not always share her need?
+i am the fugitive, all houseless roaming, the monster without air or rest, that like a cataract, down rocks and gorges foaming, leaps, maddened, into the abyss’s breast!
+and side-wards she, with young unwakened senses, within her cabin on the alpine field her simple, homely life commences, her little world therein concealed.
+and i, god’s hate flung o’er me, had not enough, to thrust the stubborn rocks before me and strike them into dust!
+she and her peace i yet must undermine: thou, hell, hast claimed this sacrifice as thine!
+help, devil!
+through the coming pangs to push me; what must be, let it quickly be!
+let fall on me her fate, and also crush me,— one ruin whelm both her and me!
 what i can!
-
-leave that, my child! thou know’st my love is tender; for love, my blood and life would i surrender, and as for faith and church, i grant to each his own.
-
+leave that, my child!
+thou know’st my love is tender; for love, my blood and life would i surrender, and as for faith and church, i grant to each his own.
 must we?
-
 i honor them.
-
-my darling, who shall dare “i believe in god!” to say? ask priest or sage the answer to declare, and it will seem a mocking play, a sarcasm on the asker.
-
-hear me not falsely, sweetest countenance! who dare express him? and who profess him, saying: i believe in him! who, feeling, seeing, deny his being, saying: i believe him not! the all-enfolding, the all-upholding, folds and upholds he not thee, me, himself? arches not there the sky above us? lies not beneath us, firm, the earth? and rise not, on us shining, friendly, the everlasting stars? look i not, eye to eye, on thee, and feel’st not, thronging to head and heart, the force, still weaving its eternal secret, invisible, visible, round thy life? vast as it is, fill with that force thy heart, and when thou in the feeling wholly blessed art, call it, then, what thou wilt,— call it bliss! heart! love! god! i have no name to give it! feeling is all in all: the name is sound and smoke, obscuring heaven’s clear glow.
-
+my darling, who shall dare “i believe in god!” to say?
+ask priest or sage the answer to declare, and it will seem a mocking play, a sarcasm on the asker.
+hear me not falsely, sweetest countenance!
+who dare express him?
+and who profess him, saying: i believe in him!
+who, feeling, seeing, deny his being, saying: i believe him not!
+the all-enfolding, the all-upholding, folds and upholds he not thee, me, himself?
+arches not there the sky above us?
+lies not beneath us, firm, the earth?
+and rise not, on us shining, friendly, the everlasting stars?
+look i not, eye to eye, on thee, and feel’st not, thronging to head and heart, the force, still weaving its eternal secret, invisible, visible, round thy life?
+vast as it is, fill with that force thy heart, and when thou in the feeling wholly blessed art, call it, then, what thou wilt,— call it bliss!
+heart!
+love!
+god!
+i have no name to give it!
+feeling is all in all: the name is sound and smoke, obscuring heaven’s clear glow.
 the same thing, in all places, all hearts that beat beneath the heavenly day— each in its language—say; then why not i, in mine, as well?
-
 dear love!
-
 how so?
-
 nay, fear him not, my sweetest one!
-
 there must be such queer birds, however.
-
 foreboding angel that thou art!
-
 there, now, is thine antipathy!
-
 ah, shall there never be a quiet hour, to see us fondly plighted, with breast to breast, and soul to soul united?
-
-thou angel, fear it not! here is a phial: in her drink but three drops of it measure, and deepest sleep will on her senses sink.
-
+thou angel, fear it not!
+here is a phial: in her drink but three drops of it measure, and deepest sleep will on her senses sink.
 if ’twould, my love, would i advise it?
-
 hast played the spy again?
-
 thou, monster, wilt nor see nor own how this pure soul, of faith so lowly, so loving and ineffable,—
-
 abortion, thou, of filth and fire!
-
 what’s that to thee?
-
-how from the window of the sacristy upward th’eternal lamp sends forth a glimmer, that, lessening side-wards, fainter grows and dimmer, till darkness closes from the sky! the shadows thus within my bosom gather.
-
+how from the window of the sacristy upward th’eternal lamp sends forth a glimmer, that, lessening side-wards, fainter grows and dimmer, till darkness closes from the sky!
+the shadows thus within my bosom gather.
 meanwhile, may not the treasure risen be, which there, behind, i glimmering see?
-
 not even a jewel, not a ring, to deck therewith my darling girl?
-
-that’s well, indeed! for painful is it to bring no gift when her i visit.
-
-so long as in my legs i feel the fresh existence. this knotted staff suffices me. what need to shorten so the way? along this labyrinth of vales to wander, then climb the rocky ramparts yonder, wherefrom the fountain flings eternal spray, is such delight, my steps would fain delay. the spring-time stirs within the fragrant birches, and even the fir-tree feels it now: should then our limbs escape its gentle searches?
-
-how strangely glimmers through the hollows a dreary light, like that of dawn! its exhalation tracks and follows the deepest gorges, faint and wan. here steam, there rolling vapor sweepeth; here burns the glow through film and haze: now like a tender thread it creepeth, now like a fountain leaps and plays. here winds away, and in a hundred divided veins the valley braids: there, in a corner pressed and sundered, itself detaches, spreads and fades. here gush the sparkles incandescent like scattered showers of golden sand;— but, see! in all their height, at present, the rocky ramparts blazing stand.
-
-how raves the tempest through the air! with what fierce blows upon my neck ’tis beating!
-
+that’s well, indeed!
+for painful is it to bring no gift when her i visit.
+so long as in my legs i feel the fresh existence.
+this knotted staff suffices me.
+what need to shorten so the way?
+along this labyrinth of vales to wander, then climb the rocky ramparts yonder, wherefrom the fountain flings eternal spray, is such delight, my steps would fain delay.
+the spring-time stirs within the fragrant birches, and even the fir-tree feels it now: should then our limbs escape its gentle searches?
+how strangely glimmers through the hollows a dreary light, like that of dawn!
+its exhalation tracks and follows the deepest gorges, faint and wan.
+here steam, there rolling vapor sweepeth; here burns the glow through film and haze: now like a tender thread it creepeth, now like a fountain leaps and plays.
+here winds away, and in a hundred divided veins the valley braids: there, in a corner pressed and sundered, itself detaches, spreads and fades.
+here gush the sparkles incandescent like scattered showers of golden sand;— but, see!
+in all their height, at present, the rocky ramparts blazing stand.
+how raves the tempest through the air!
+with what fierce blows upon my neck ’tis beating!
 here!
-
-spirit of contradiction! on! i’ll follow straight. ’tis planned most wisely, if i judge aright: we climb the brocken’s top in the walpurgis-night, that arbitrarily, here, ourselves we isolate.
-
-better the summit, i must own: there fire and whirling smoke i see. they seek the evil one in wild confusion: many enigmas there might find solution.
-
+spirit of contradiction!
+on!
+i’ll follow straight.
+’tis planned most wisely, if i judge aright: we climb the brocken’s top in the walpurgis-night, that arbitrarily, here, ourselves we isolate.
+better the summit, i must own: there fire and whirling smoke i see.
+they seek the evil one in wild confusion: many enigmas there might find solution.
 wilt thou, to introduce us to the revel, assume the part of wizard or of devil?
-
-let me not lose myself in all this pother! this is a fair, as never was another!
-
+let me not lose myself in all this pother!
+this is a fair, as never was another!
 but who is that?
-
 who?
-
 those two, the old one with the young one sitting, they’ve danced already more than fitting.
-
 a lovely dream once came to me; i then beheld an apple-tree, and there two fairest apples shone: they lured me so, i climbed thereon.
-
-o, everywhere on him you fall! when others dance, he weighs the matter: if he can’t every step bechatter, then ’tis the same as were the step not made; but if you forwards go, his ire is most displayed. if you would whirl in regular gyration as he does in his dull old mill, he’d show, at any rate, good-will,— especially if you heard and heeded his hortation.
-
-ah! in the midst of it there sprang a red mouse from her mouth—sufficient reason.
-
+o, everywhere on him you fall!
+when others dance, he weighs the matter: if he can’t every step bechatter, then ’tis the same as were the step not made; but if you forwards go, his ire is most displayed.
+if you would whirl in regular gyration as he does in his dull old mill, he’d show, at any rate, good-will,— especially if you heard and heeded his hortation.
+ah!
+in the midst of it there sprang a red mouse from her mouth—sufficient reason.
 then saw i—.
-
-mephisto, seest thou there, alone and far, a girl most pale and fair? she falters on, her way scarce knowing, as if with fettered feet that stay her going. i must confess, it seems to me as if my kindly margaret were she.
-
+mephisto, seest thou there, alone and far, a girl most pale and fair?
+she falters on, her way scarce knowing, as if with fettered feet that stay her going.
+i must confess, it seems to me as if my kindly margaret were she.
 forsooth, the eyes they are of one whom, dying, no hand with loving pressure closed; that is the breast whereon i once was lying,— the body sweet, beside which i reposed!
-
-the woe, the rapture, so ensnare me, that from her gaze i cannot tear me! and, strange! around her fairest throat a single scarlet band is gleaming, no broader than a knife-blade seeming!
-
-in misery! in despair! long wretchedly astray on the face of the earth, and now imprisoned! that gracious, ill-starred creature shut in a dungeon as a criminal, and given up to fearful torments! to this has it come! to this!—treacherous, contemptible spirit, and thou hast concealed it from me!—stand, then,—stand! roll the devilish eyes wrathfully in thy head! stand and defy me with thine intolerable presence! imprisoned! in irretrievable misery! delivered up to evil spirits, and to condemning, unfeeling man! and thou hast lulled me, meanwhile, with the most insipid dissipations, hast concealed from me her increasing wretchedness, and suffered her to go helplessly to ruin!
-
-dog! abominable monster! transform him, thou infinite spirit! transform the reptile again into his dog-shape? in which it pleased him often at night to scamper on before me, to roll himself at the feet of the unsuspecting wanderer, and hang upon his shoulders when he fell! transform him again into his favorite likeness, that he may crawl upon his belly in the dust before me,—that i may trample him, the outlawed, under foot! not the first! o woe! woe which no human soul can grasp, that more than one being should sink into the depths of this misery,—that the first, in its writhing death-agony under the eyes of the eternal forgiver, did not expiate the guilt of all others! the misery of this single one pierces to the very marrow of my life; and thou art calmly grinning at the fate of thousands!
-
-gnash not thus thy devouring teeth at me? it fills me with horrible disgust. mighty, glorious spirit, who hast vouchsafed to me thine apparition, who knowest my heart and my soul, why fetter me to the felon-comrade, who feeds on mischief and gluts himself with ruin?
-
-rescue her, or woe to thee! the fearfullest curse be upon thee for thousands of ages!
-
-take me thither! she shall be free!
-
-that, too, from thee? murder and death of a world upon thee, monster! take me thither, i say, and liberate her!
-
+the woe, the rapture, so ensnare me, that from her gaze i cannot tear me!
+and, strange!
+around her fairest throat a single scarlet band is gleaming, no broader than a knife-blade seeming!
+in misery!
+in despair!
+long wretchedly astray on the face of the earth, and now imprisoned!
+that gracious, ill-starred creature shut in a dungeon as a criminal, and given up to fearful torments!
+to this has it come!
+to this!—treacherous, contemptible spirit, and thou hast concealed it from me!—stand, then,—stand!
+roll the devilish eyes wrathfully in thy head!
+stand and defy me with thine intolerable presence!
+imprisoned!
+in irretrievable misery!
+delivered up to evil spirits, and to condemning, unfeeling man!
+and thou hast lulled me, meanwhile, with the most insipid dissipations, hast concealed from me her increasing wretchedness, and suffered her to go helplessly to ruin!
+dog!
+abominable monster!
+transform him, thou infinite spirit!
+transform the reptile again into his dog-shape?
+in which it pleased him often at night to scamper on before me, to roll himself at the feet of the unsuspecting wanderer, and hang upon his shoulders when he fell!
+transform him again into his favorite likeness, that he may crawl upon his belly in the dust before me,—that i may trample him, the outlawed, under foot!
+not the first!
+o woe!
+woe which no human soul can grasp, that more than one being should sink into the depths of this misery,—that the first, in its writhing death-agony under the eyes of the eternal forgiver, did not expiate the guilt of all others!
+the misery of this single one pierces to the very marrow of my life; and thou art calmly grinning at the fate of thousands!
+gnash not thus thy devouring teeth at me?
+it fills me with horrible disgust.
+mighty, glorious spirit, who hast vouchsafed to me thine apparition, who knowest my heart and my soul, why fetter me to the felon-comrade, who feeds on mischief and gluts himself with ruin?
+rescue her, or woe to thee!
+the fearfullest curse be upon thee for thousands of ages!
+take me thither!
+she shall be free!
+that, too, from thee?
+murder and death of a world upon thee, monster!
+take me thither, i say, and liberate her!
 up and away!
-
 what weave they there round the raven-stone?
-
 soaring up, sweeping down, bowing and bending!
-
 they scatter, devote and doom!
-
-a shudder, long unfelt, comes o’er me; mankind’s collected woe o’erwhelms me, here. she dwells within the dark, damp walls before me, and all her crime was a delusion dear! what! i delay to free her? i dread, once again to see her? on! my shrinking but lingers death more near.    _my mother, the harlot, who put me to death; my father, the varlet, who eaten me hath! little sister, so good, laid my bones in the wood, in the damp moss and clay:_ _then was i a beautiful bird o’ the wood; fly away! fly away_!  faust __  she does not dream her lover listens near; that he the rattling chain, the rustling straw, can hear.  _
-
-hush! hush! the hour is come that frees thee.
-
+a shudder, long unfelt, comes o’er me; mankind’s collected woe o’erwhelms me, here.
+she dwells within the dark, damp walls before me, and all her crime was a delusion dear!
+what!
+i delay to free her?
+i dread, once again to see her?
+on!
+my shrinking but lingers death more near.
+_my mother, the harlot, who put me to death; my father, the varlet, who eaten me hath!
+little sister, so good, laid my bones in the wood, in the damp moss and clay:_ _then was i a beautiful bird o’ the wood; fly away!
+fly away_!
+faust __  she does not dream her lover listens near; that he the rattling chain, the rustling straw, can hear.
+_
+hush!
+hush!
+the hour is come that frees thee.
 thy cries will wake the guards, and they will seize thee!
-
 shall i outlive this misery?
-
 here lieth one who loves thee ever, the thraldom of thy woe to sever.
-
-margaret! margaret!
-
+margaret!
+margaret!
 ’tis i!
-
-come! come with me!
-
-away, now! if longer here thou stayest, we shall be made to dearly rue it.
-
-come, follow me! my darling, be more bold: i’ll clasp thee, soon, with warmth a thousand-fold; but follow now! ’tis all i beg of thee.
-
-’tis i! come on!
-
-come! come! the night already vanisheth.
-
-o, let the past be past! thy words will slay me!
-
+come!
+come with me!
+away, now!
+if longer here thou stayest, we shall be made to dearly rue it.
+come, follow me!
+my darling, be more bold: i’ll clasp thee, soon, with warmth a thousand-fold; but follow now!
+’tis all i beg of thee.
+’tis i!
+come on!
+come!
+come!
+the night already vanisheth.
+o, let the past be past!
+thy words will slay me!
 if thou feel’st it is i, then come with me!
-
 to freedom.
-
-thou canst! just will it! open stands the door.
-
+thou canst!
+just will it!
+open stands the door.
 i’ll stay with thee.
-
-recall thy wandering will! one step, and thou art free at last!
-
+recall thy wandering will!
+one step, and thou art free at last!
 here words and prayers are nothing worth; i’ll venture, then, to bear thee forth.
-
-the day dawns: dearest! dearest!
-
+the day dawns: dearest!
+dearest!
 o had i ne’er been born!
-
 thou shalt live.
-
