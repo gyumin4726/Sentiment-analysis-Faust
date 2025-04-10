@@ -34,7 +34,7 @@ def get_filtered_word_frequencies(text_lines):
     word_counts = Counter(all_words)  # 단어 빈도수 계산
     return word_counts
 
-# 📌 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
+# 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
 file_path = "../../data/Faust [part 1]. Translated Into English in the Original Metres by Goethe.txt"
 
 with open(file_path, "r", encoding="utf-8") as f:
@@ -46,7 +46,7 @@ cleaned_no_stopwords = [clean_text(line) for line in faust_text]
 filtered_faust_word_counts = get_filtered_word_frequencies(faust_text)
 
 # 상위 20개 단어 출력
-print("📌 파우스트 대사에서 가장 많이 나온 단어 20개 (불용어 제거 + 정제 후):")
+print("파우스트 대사에서 가장 많이 나온 단어 20개 (불용어 제거 + 정제 후):")
 print(filtered_faust_word_counts.most_common(20))
 
 # 결과 저장
@@ -57,4 +57,4 @@ with open(faust_no_stopwords_path, "w", encoding="utf-8") as f:
     f.write("\n".join(cleaned_no_stopwords))
 
 
-print("✅ 불용어 제거 완료! 정리된 파일이 저장되었습니다.")
+print("불용어 제거 완료! 정리된 파일이 저장되었습니다.")

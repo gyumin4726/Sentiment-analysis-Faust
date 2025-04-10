@@ -11,17 +11,17 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from Transformer.model_transformer import TransformerClassifier
 from Transformer.predict_transformer import predict_sentiment
 
-# ✅ 한글 글꼴 설정 (Windows 기준)
+# 한글 글꼴 설정 (Windows 기준)
 matplotlib.rc('font', family='Malgun Gothic')  # '맑은 고딕' 사용
 plt.rcParams['axes.unicode_minus'] = False  # 음수 기호 깨짐 방지
 
-# ✅ 기본 설정
+# 기본 설정
 embedding_dim = 100
 hidden_dim = 128
 max_len = 50
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
-# ✅ 모델 로드
+# 모델 로드
 checkpoint = torch.load(
     "../checkpoint/saved_transformer_model.pth",
     map_location=device
@@ -38,15 +38,15 @@ model.load_state_dict(checkpoint['model_state_dict'])
 model = model.to(device)
 model.eval()
 
-# ✅ 대사 파일 경로
+# 대사 파일 경로
 faust_path = "../../preprocess/TWO_extract_lines/faust_dialogues.txt"
 #mephi_path = "../../preprocess/TWO_extract_lines/mephisto_dialogues.txt"
 
-# ✅ 텍스트 로드
+# 텍스트 로드
 with open(faust_path, "r", encoding="utf-8") as f:
     faust_lines = [line.strip() for line in f if line.strip()]
 
-# ✅ 감정 예측
+# 감정 예측
 results = []
 for line in faust_lines:
     label, confidence, _ = predict_sentiment(
@@ -54,7 +54,7 @@ for line in faust_lines:
     )
     results.append((line, label, confidence))
 
-# ✅ 대표 감정 흐름 시각화
+# 대표 감정 흐름 시각화
 dominant_labels = [label for _, label, _ in results]
 label_to_index = {label: i for i, label in enumerate(label_names)}
 label_indices = [label_to_index[label] for label in dominant_labels]

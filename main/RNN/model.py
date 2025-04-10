@@ -15,7 +15,7 @@ class RNN(nn.Module):
             batch_first=False  # 유지: permute 방식
         )
 
-        # 💡 RNN 출력 + 평균 임베딩 → hidden_dim*2 + embedding_dim
+        # 💡 RNN 출력 + 평균/최대 임베딩 → hidden_dim*2 + embedding_dim*2
         self.norm = nn.LayerNorm(hidden_dim * 2 + embedding_dim * 2)
         self.fc_layers = nn.Sequential(
             nn.Dropout(0.3),
@@ -32,11 +32,11 @@ class RNN(nn.Module):
         output, hidden = self.rnn(embedded)  # output: [seq_len, batch, hidden*2]
         hidden_cat = torch.cat((hidden[-2], hidden[-1]), dim=1)  # [batch, hidden_dim*2]
 
-        # 💡 평균 임베딩: seq_len 차원 평균
+        # 💡 평균/최대 임베딩: seq_len 차원 평균/최대
         avg_emb = embedded.mean(dim=0)  # [batch, emb_dim]
         max_emb, _ = embedded.max(dim=0)
 
-        # 🔗 결합: RNN 출력 + 평균 임베딩
+        # 🔗 결합: RNN 출력 + 평균/최대 임베딩
         combined = torch.cat((hidden_cat, avg_emb, max_emb), dim=1)  # [batch, hidden_dim*2 + emb_dim*2]
         normed = self.norm(combined)
         return self.fc_layers(normed)

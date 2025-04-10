@@ -23,7 +23,7 @@ def predict_sentiment(sentence, model, vocab, label_names, max_len=50, device='c
     return label_names[predicted_idx], probs[predicted_idx].item(), probs
 
 
-# ✅ 직접 실행 테스트 (예: 파우스트 문장)
+# 직접 실행 테스트 (예: 파우스트 문장)
 if __name__ == "__main__":
     from model import RNN
     import torch.nn as nn
@@ -54,9 +54,9 @@ if __name__ == "__main__":
     label, confidence, probs = predict_sentiment(sentence, model, vocab, label_names, max_len=max_len, device=device)
 
     # 출력
-    print(f"\n💬 예측 문장: {sentence}")
-    print(f"🔍 예측 감정: {label} (확률: {confidence:.4f})\n")
+    print(f"\n예측 문장: {sentence}")
+    print(f"예측 감정: {label} (확률: {confidence:.4f})\n")
 
-    print("📊 감정별 확률:")
+    print("감정별 확률:")
     for i, p in enumerate(probs):
         print(f"{label_names[i]:<15}: {p.item():.4f}")

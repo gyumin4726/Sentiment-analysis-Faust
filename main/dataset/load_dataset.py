@@ -4,7 +4,7 @@ import re
 import torch
 from torch.utils.data import Dataset, DataLoader
 
-# ------------------- Tokenization & Encoding -------------------
+# ------------------- 토크나이즈 & 인코딩 -------------------
 def tokenize(text):
     return re.findall(r"\b\w+\b", text.lower())
 
@@ -19,11 +19,11 @@ def build_vocab(tokenized_texts, min_freq=2):
 def encode(tokens, vocab):
     return [vocab.get(token, vocab["<unk>"]) for token in tokens]
 
-# ------------------- PyTorch Dataset -------------------
+# ------------------- 데이터셋 클래스 -------------------
 class EmotionDataset(Dataset):
     def __init__(self, X, y, vocab, max_len=50):
         self.X = [encode(x, vocab)[:max_len] for x in X]
-        self.X = [x + [0] * (max_len - len(x)) for x in self.X]  # padding
+        self.X = [x + [0] * (max_len - len(x)) for x in self.X]  # 패딩
         self.y = y
 
     def __len__(self):
@@ -32,9 +32,9 @@ class EmotionDataset(Dataset):
     def __getitem__(self, idx):
         return torch.tensor(self.X[idx]), torch.tensor(self.y[idx])
 
-# ------------------- Data Loader Function -------------------
+# ------------------- 데이터 로더 -------------------
 def get_dataloaders(batch_size=64, max_len=50):
-    # ✅ 전체 감정 포함
+    # 전체 감정 포함
     dataset = load_dataset("dair-ai/emotion", split="train")
     label_names = dataset.features['label'].names
 
@@ -47,7 +47,7 @@ def get_dataloaders(batch_size=64, max_len=50):
     train_dataset = EmotionDataset(tokenized, labels, vocab, max_len)
     train_loader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True)
 
-    # ✅ 테스트셋도 동일하게 처리
+    # 테스트셋도 동일하게 처리
     test_set = load_dataset("dair-ai/emotion", split="test")
     test_texts = [item['text'] for item in test_set]
     test_labels = [item['label'] for item in test_set]

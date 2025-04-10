@@ -16,7 +16,7 @@ def get_word_frequencies(text_lines):
     word_counts = Counter(all_words)  # 단어 빈도수 계산
     return word_counts
 
-# 📌 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
+# 수정된 파일 경로 (백슬래시 문제 해결: r"" 또는 os.path 사용)
 faust_file_path = "../../preprocess/TWO_extract_lines/faust_dialogues.txt"
 mephi_file_path = "../../preprocess/TWO_extract_lines/mephisto_dialogues.txt"
 
@@ -55,11 +55,11 @@ if __name__ == "__main__":
     mephi_word_counts = get_word_frequencies(mephi_text)
 
     # 상위 20개 단어 출력
-    print("📌 파우스트 대사에서 가장 많이 나온 단어 20개:")
+    print("파우스트 대사에서 가장 많이 나온 단어 20개:")
     for word, count in faust_word_counts.most_common(20):
         print(f"{word}: {count}")
 
-    print("\n📌 메피스토펠레스 대사에서 가장 많이 나온 단어 20개:")
+    print("\n메피스토펠레스 대사에서 가장 많이 나온 단어 20개:")
     for word, count in mephi_word_counts.most_common(20):
         print(f"{word}: {count}") 
         

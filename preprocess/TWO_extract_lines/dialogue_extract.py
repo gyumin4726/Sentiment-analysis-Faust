@@ -53,4 +53,4 @@ with open("mephisto_dialogues.txt", "w", encoding="utf-8") as f:
     for sentence in mephisto_dialogues:
         f.write(sentence + "\n")
 
-print("✅ faust & mephistopheles 대사 문장 단위로 분리하여 저장 완료!")
+print("faust & mephistopheles 대사 문장 단위로 분리하여 저장 완료!")

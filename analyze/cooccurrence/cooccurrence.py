@@ -64,7 +64,7 @@ def print_top_cooccurrences(word_counts, cooccur_dict, top_n=20, related_n=10, s
         related = cooccur_dict[word].most_common(related_n)
         related_str = ', '.join([f"{w} ({c})" for w, c in related])
 
-        print(f"📌 {speaker} 단어: '{word}' (빈도: {count})")
+        print(f"{speaker} 단어: '{word}' (빈도: {count})")
         print(f"   → 자주 같이 등장한 단어들: {related_str}")
         print("-" * 80)
 
