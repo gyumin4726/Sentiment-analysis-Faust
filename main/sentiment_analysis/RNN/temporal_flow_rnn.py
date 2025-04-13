@@ -107,12 +107,12 @@ plot_positive_negative_trend(
     results_faust,
     "Faust 감정 흐름 (긍정 감정 비율)",
     "faust_positive_trend.png",
-    window_size=10
+    window_size=50
 )
 
 plot_positive_negative_trend(
     results_mephi,
     "Mephistopheles 감정 흐름 (긍정 감정 비율)",
     "mephi_positive_trend.png",
-    window_size=10
+    window_size=50
 )

@@ -108,12 +108,12 @@ plot_positive_negative_trend(
     results_faust,
     "Faust 감정 흐름 (LSTM)",
     "faust_positive_trend(LSTM).png",
-    window_size=10
+    window_size=50
 )
 
 plot_positive_negative_trend(
     results_mephi,
     "Mephistopheles 감정 흐름 (LSTM)",
     "mephi_positive_trend(LSTM).png",
-    window_size=10
+    window_size=50
 )
