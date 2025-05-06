@@ -12,10 +12,9 @@ class LSTM(nn.Module):
             num_layers=2,
             bidirectional=True,
             dropout=0.2,
-            batch_first=False  # 유지: permute 방식
+            batch_first=False  
         )
-
-        # 💡 LSTM 출력 + 평균/최대 임베딩 → hidden_dim*2 + embedding_dim*2
+        
         self.norm = nn.LayerNorm(hidden_dim * 2 + embedding_dim * 2)
         self.fc_layers = nn.Sequential(
             nn.Dropout(0.3),

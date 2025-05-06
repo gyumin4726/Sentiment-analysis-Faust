@@ -32,11 +32,10 @@ class TransformerClassifier(nn.Module):
             nhead=num_heads,
             dim_feedforward=hidden_dim,
             dropout=0.2,
-            batch_first=False  # 유지: permute 방식
+            batch_first=False  
         )
         self.transformer_encoder = nn.TransformerEncoder(encoder_layer, num_layers=num_layers)
 
-        # 💡 Transformer에서는 hidden 대신 첫 토큰 + 평균/최대 pooling 사용
         self.norm = nn.LayerNorm(embedding_dim * 3)
         self.fc_layers = nn.Sequential(
             nn.Dropout(0.3),

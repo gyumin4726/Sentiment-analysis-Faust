@@ -40,8 +40,9 @@ output_dim = len(label_names)
 pad_idx = vocab["<pad>"]
 
 model = TransformerClassifier(input_dim, embedding_dim, hidden_dim, output_dim, pad_idx)
+
 model.embedding.weight.data.copy_(torch.tensor(pretrained_weights))
-model.embedding.weight.data[pad_idx] = torch.zeros(embedding_dim)  # 패딩 벡터는 0으로
+model.embedding.weight.data[pad_idx] = torch.zeros(embedding_dim)  
 
 model = model.to(device)
 
