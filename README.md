@@ -36,7 +36,15 @@ Sentiment-analysis-Faust/
 │   ├── frequency/                 # 단어 빈도 분석
 │   ├── word2vec/                  # 단어 임베딩 분석
 │   └── cooccurrence/             # 단어 공동 출현 분석
-└── data/                         # 원본 텍스트 데이터
+├── main/
+│   ├── dataset/                  # 데이터셋 로딩 및 전처리
+│   ├── LSTM/                     # LSTM 모델 구현
+│   ├── RNN/                      # RNN 모델 구현
+│   ├── Transformer/              # Transformer 모델 구현
+│   ├── checkpoint/               # 학습된 모델 저장
+│   └── sentiment_analysis/       # 감정 분석 결과
+├── data/                         # 원본 텍스트 데이터
+└── requirements.txt              # 프로젝트 의존성
 ```
 
 ## 실행 방법
